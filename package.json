@@ -1,0 +1,14 @@
+{
+  "name": "lowcode",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "postinstall": "pnpm -r run stub --if-present",
+    "preinstall": "npx only-allow pnpm"
+  },
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "typescript": "^5.8.3"
+  }
+}
