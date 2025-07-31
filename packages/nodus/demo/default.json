@@ -1,0 +1,53 @@
+{
+  "nodes": [
+    {
+      "uuid": "JaVxp-92uMmo",
+      "name": "",
+      "label": "",
+      "inputs": [
+        {
+          "uuid": "gKpBsrOb-X2_"
+        },
+        {
+          "uuid": "DypDhDG3cRqM"
+        }
+      ],
+      "outputs": [
+        {
+          "uuid": "x0VRgqbJjxDy"
+        }
+      ]
+    },
+    {
+      "uuid": "y2M-xcH8a4qc",
+      "inputs": [
+        {
+          "uuid": "rkWICjBqt-ji"
+        }
+      ],
+      "outputs": [
+        {
+          "uuid": "KgnzSrC2aXYS"
+        }
+      ]
+    },
+    {
+      "uuid": "LyrcA_kmmFB9",
+      "inputs": [
+        {
+          "uuid": "6-UE8b_aCEWJ"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "x0VRgqbJjxDy",
+      "target": "rkWICjBqt-ji"
+    },
+    {
+      "source": "KgnzSrC2aXYS",
+      "target": "6-UE8b_aCEWJ"
+    }
+  ]
+}
