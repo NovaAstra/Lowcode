@@ -1,53 +1,85 @@
 {
-  "nodes": [
-    {
-      "uuid": "JaVxp-92uMmo",
-      "name": "",
-      "label": "",
-      "inputs": [
-        {
-          "uuid": "gKpBsrOb-X2_"
-        },
-        {
-          "uuid": "DypDhDG3cRqM"
-        }
-      ],
-      "outputs": [
-        {
-          "uuid": "x0VRgqbJjxDy"
-        }
-      ]
-    },
-    {
-      "uuid": "y2M-xcH8a4qc",
-      "inputs": [
-        {
-          "uuid": "rkWICjBqt-ji"
-        }
-      ],
-      "outputs": [
-        {
-          "uuid": "KgnzSrC2aXYS"
-        }
-      ]
-    },
-    {
-      "uuid": "LyrcA_kmmFB9",
-      "inputs": [
-        {
-          "uuid": "6-UE8b_aCEWJ"
-        }
-      ]
-    }
-  ],
-  "edges": [
-    {
-      "source": "x0VRgqbJjxDy",
-      "target": "rkWICjBqt-ji"
-    },
-    {
-      "source": "KgnzSrC2aXYS",
-      "target": "6-UE8b_aCEWJ"
-    }
-  ]
+  "version": "1.0.0",
+  "name": "Nodus Demo",
+  "description": "A simple demo for Nodus",
+  "ui": {
+    "state": {},
+    "blocks": [
+      {
+        "uuid": "GLXDFBRmGgDd",
+        "name": "button",
+        "label": "按钮",
+        "props": {},
+        "attrs": {},
+        "events": {}
+      },
+      {
+        "uuid": "yKCeZ3wZNMLJ",
+        "name": "text",
+        "label": "文本",
+        "props": {},
+        "attrs": {}
+      },
+      {
+        "uuid": "79tDF6OUr3J9",
+        "name": "input",
+        "label": "输入框",
+        "props": {},
+        "attrs": {}
+      }
+    ]
+  },
+  "logic": {
+    "nodes": [
+      {
+        "uuid": "JaVxp-92uMmo",
+        "name": "",
+        "label": "",
+        "inputs": [
+          {
+            "uuid": "gKpBsrOb-X2_"
+          },
+          {
+            "uuid": "DypDhDG3cRqM"
+          }
+        ],
+        "outputs": [
+          {
+            "uuid": "x0VRgqbJjxDy"
+          }
+        ]
+      },
+      {
+        "uuid": "y2M-xcH8a4qc",
+        "inputs": [
+          {
+            "uuid": "rkWICjBqt-ji"
+          }
+        ],
+        "outputs": [
+          {
+            "uuid": "KgnzSrC2aXYS"
+          }
+        ]
+      },
+      {
+        "uuid": "LyrcA_kmmFB9",
+        "inputs": [
+          {
+            "uuid": "6-UE8b_aCEWJ"
+          }
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "source": "x0VRgqbJjxDy",
+        "target": "rkWICjBqt-ji"
+      },
+      {
+        "source": "KgnzSrC2aXYS",
+        "target": "6-UE8b_aCEWJ"
+      }
+    ]
+  }
 }

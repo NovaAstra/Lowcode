@@ -1,0 +1,322 @@
+{
+  "userInfo": {
+    "userId": 3813,
+    "userName": "NovaAstra@outlook.com",
+    "nickName": "（）",
+    "avatar": "https://thirdwx.qlogo.cn/mmopen/vi_32/QTn85VI7S637DicPUm8NswahmDLG2XgzbIbbJ9PFSvelDLmqInEfHqWTSfYucLBhs3Tqy8ibia3bNIzcMj2CUJibmZaColt4SagMm2IzBJr4h9A/132"
+  },
+  "page": {
+    "id": 11394,
+    "name": "21312123",
+    "remark": "",
+    "projectId": 4900,
+    "isPublic": 2,
+    "userId": 3813,
+    "userName": "NovaAstra",
+    "previewImg": null,
+    "stgState": 1,
+    "prdState": 1,
+    "stgPublishId": 0,
+    "prdPublishId": 0,
+    "pageData": {
+      "config": {
+        "props": {
+          "theme": "#1677ff"
+        },
+        "style": {
+          "backgroundColor": "#fff",
+          "padding": "20px"
+        },
+        "scopeCss": "",
+        "events": [
+          {
+            "nickName": "初始化事件",
+            "eventName": "onLoad",
+            "actions": [
+              {
+                "id": "start",
+                "type": "start",
+                "title": "开始"
+              },
+              {
+                "id": "42502478",
+                "type": "normal",
+                "title": "节点8856",
+                "content": "发送请求",
+                "config": {
+                  "actionType": "request",
+                  "actionName": "发送请求",
+                  "id": "06d5a9ec-e230-4b18-bf85-67d5800a82c4"
+                },
+                "children": [],
+                "error": false,
+                "errorMessage": null
+              },
+              {
+                "id": "end",
+                "type": "end",
+                "title": "结束"
+              }
+            ]
+          }
+        ],
+        "api": {
+          "sourceType": "json",
+          "id": "",
+          "source": {},
+          "sourceField": "",
+          "executeType": "immediately"
+        }
+      },
+      "events": [],
+      "apis": {
+        "06d5a9ec-e230-4b18-bf85-67d5800a82c4": {
+          "method": "GET",
+          "url": "",
+          "sourceType": "json",
+          "params": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ],
+          "contentType": "application/json",
+          "replaceData": "merge",
+          "isCors": true,
+          "result": {
+            "code": "code",
+            "codeValue": 0,
+            "data": "data",
+            "msg": "msg"
+          },
+          "headers": [
+            {
+              "key": "",
+              "value": ""
+            }
+          ],
+          "timeout": 8,
+          "timeoutErrorMessage": "请求超时，请稍后重试",
+          "requestInterceptor": "/**\n * config: 请求完整配置，请严格按照以下格式使用和返回\n * config.url: 请求地址,eg: config.url = 'https://xxx.marsview.cc/api/xxx'\n * config.params: Get请求对应参数,eg: config.params = {name:'xxx'}\n * config.data: Post请求对应数据,eg: config.data = {name:'xxx'}\n * config.timeout: 超时时间（秒）,eg: config.timeout = 5\n * config.headers: 请求头,eg: config.headers.token = 'xxx'\n */\nfunction request(config){\n    return config;\n}",
+          "responseInterceptor": "/**\n* response: 返回值完整结构\n* response.config: 请求完整配置。\n* response.data: 请求返回数据\n* response.headers: 请求头\n* response.status: 请求状态码\n*/\nfunction response(response){\n    return response;\n}",
+          "tips": {
+            "success": "请求成功",
+            "fail": "请求失败",
+            "isSuccess": true,
+            "isError": true
+          },
+          "retry": {
+            "limit": 0,
+            "delay": 1
+          },
+          "id": "06d5a9ec-e230-4b18-bf85-67d5800a82c4",
+          "name": "name",
+          "stgApi": "/user",
+          "prdApi": "/user",
+          "apiConfigFix": {
+            "suffixes": {
+              "stg": "/user",
+              "prd": "/user"
+            },
+            "selectedPrefixes": {
+              "stg": "",
+              "prd": ""
+            }
+          }
+        }
+      },
+      "elements": [
+        {
+          "id": "Flex_rl6iofp51p",
+          "type": "Flex",
+          "name": "弹性布局",
+          "elements": []
+        },
+        {
+          "id": "Grid_8vt6opczgu",
+          "type": "Grid",
+          "name": "网格布局",
+          "elements": []
+        },
+        {
+          "id": "Form_crofkxn1hx",
+          "type": "Form",
+          "name": "Form容器",
+          "elements": [
+            {
+              "id": "Input_6bo9om5gp1",
+              "parentId": "Form_crofkxn1hx",
+              "type": "Input",
+              "name": "文本框",
+              "elements": []
+            },
+            {
+              "id": "Switch_8d755q794b",
+              "parentId": "Form_crofkxn1hx",
+              "type": "Switch",
+              "name": "开关",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "elementsMap": {
+        "Flex_rl6iofp51p": {
+          "type": "Flex",
+          "name": "弹性布局",
+          "id": "Flex_rl6iofp51p",
+          "config": {
+            "props": {
+              "vertical": false,
+              "wrap": "nowrap",
+              "justify": "center",
+              "align": "center",
+              "gap": 10
+            },
+            "style": {},
+            "events": [],
+            "api": {},
+            "source": ""
+          }
+        },
+        "Grid_8vt6opczgu": {
+          "type": "Grid",
+          "name": "网格布局",
+          "id": "Grid_8vt6opczgu",
+          "config": {
+            "props": {
+              "xGap": "10px",
+              "yGap": "10px",
+              "xRate": "1fr 1fr",
+              "yRate": "1fr 1fr 1fr"
+            },
+            "style": {
+              "position": "relative",
+              "minHeight": "100px"
+            },
+            "scopeCss": ".marsview{\n  min-height: 100px;\n}",
+            "events": [],
+            "api": {},
+            "source": ""
+          }
+        },
+        "Form_crofkxn1hx": {
+          "type": "Form",
+          "name": "Form容器",
+          "id": "Form_crofkxn1hx",
+          "config": {
+            "props": {
+              "colon": true,
+              "labelAlign": "right",
+              "layout": "horizontal",
+              "labelCol": {
+                "span": 6
+              },
+              "wrapperCol": {
+                "span": 18
+              }
+            },
+            "style": {
+              "padding": "20px 10px",
+              "backgroundColor": "#fff"
+            },
+            "events": [],
+            "api": {}
+          }
+        },
+        "Input_6bo9om5gp1": {
+          "type": "Input",
+          "name": "文本框",
+          "parentId": "Form_crofkxn1hx",
+          "id": "Input_6bo9om5gp1",
+          "config": {
+            "props": {
+              "formItem": {
+                "label": "输入框",
+                "name": "Input_b6ewjp"
+              },
+              "formWrap": {
+                "placeholder": "请输入文本",
+                "allowClear": true
+              },
+              "defaultValue": ""
+            },
+            "style": {}
+          }
+        },
+        "Switch_8d755q794b": {
+          "type": "Switch",
+          "name": "开关",
+          "parentId": "Form_crofkxn1hx",
+          "id": "Switch_8d755q794b",
+          "config": {
+            "props": {
+              "formItem": {
+                "label": "开关",
+                "name": "Switch_e4rabj"
+              },
+              "formWrap": {}
+            },
+            "style": {},
+            "events": [
+              {
+                "nickName": "onChange事件",
+                "eventName": "onChange",
+                "actions": [
+                  {
+                    "id": "start",
+                    "type": "start",
+                    "title": "开始"
+                  },
+                  {
+                    "id": "58766399",
+                    "type": "normal",
+                    "title": "节点6083",
+                    "content": "行为配置",
+                    "config": {},
+                    "children": []
+                  },
+                  {
+                    "id": "end",
+                    "type": "end",
+                    "title": "结束"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "variables": [
+        {
+          "name": "asda",
+          "type": "string",
+          "defaultValue": "12",
+          "remark": "12"
+        }
+      ],
+      "variableData": {},
+      "formData": {
+        "Form_crofkxn1hx": {}
+      },
+      "interceptor": {
+        "headers": [
+          {
+            "key": "",
+            "value": ""
+          }
+        ],
+        "timeout": 8,
+        "timeoutErrorMessage": "请求超时，请稍后再试"
+      },
+      "componentData": {
+        "Form_crofkxn1hx": {}
+      }
+    },
+    "appType": 1,
+    "isEdit": 2,
+    "prePublishId": 0,
+    "preState": 1,
+    "updatedAt": "2025-02-09 17:09:45"
+  }
+}
