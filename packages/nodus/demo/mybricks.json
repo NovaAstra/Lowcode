@@ -1,0 +1,3354 @@
+{
+  "content": {
+    "xg.desn.stageview": {
+      "D": {
+        "C": [
+          "xg.desn.designer.stageview.StageViewModel",
+          "xg.desn.sdk.ModelState",
+          "xg.desn.designer.stageview.ViewSlotModel",
+          "xg.desn.designer.stageview.geo.GeoViewModel",
+          "xg.desn.designer.stageview.topl.ToplViewModel",
+          "xg.desn.designer.stageview.geo.SlotStyleModel",
+          "xg.desn.designer.stageview.geo.SlotModel",
+          "xg.desn.designer.stageview.topl.FrameModel",
+          "xg.desn.designer.stageview.geo.GeoComModel",
+          "xg.desn.designer.stageview.topl.PinModel",
+          "xg.desn.designer.stageview.topl.ToplComModel",
+          "xg.desn.designer.stageview.topl.DiagramModel",
+          "xg.desn.sdk.ComRuntimeModel",
+          "xg.desn.designer.stageview.topl.ToplComModelForked",
+          "xg.desn.designer.stageview.topl.ConModel",
+          "xg.desn.sdk.ComStyle",
+          "xg.desn.designer.stageview.topl.PinModelForked"
+        ],
+        "W": {
+          "id": "_0_",
+          "state": "_1_",
+          "designerVersion": "_2_",
+          "pluginDataset": "_3_",
+          "envVars": "_4_",
+          "designCostTime": "_5_",
+          "comThemes": "_6_",
+          "_cssVars": "_7_",
+          "moduleInstances": "_8_",
+          "domainInstances": "_9_",
+          "viewSlots": "_10_",
+          "editViewWidth": "_11_",
+          "mainModule": "_12_",
+          "@mybricks/plugins/service": "_13_",
+          "@mybricks/plugins/note": "_14_",
+          "@mybricks/plugins/locale": "_15_",
+          "@mybricks/plugins/theme/use": "_16_",
+          "@mybricks/plugins/tocode": "_17_",
+          "@mybricks/plugin-domain": "_18_",
+          "mybricks.plugin.search": "_19_",
+          "mybricks.plugin.validator": "_20_",
+          "top": "_21_",
+          "bottom": "_22_",
+          "instId": "_23_",
+          "title": "_24_",
+          "slot": "_25_",
+          "frame": "_26_",
+          "connectors": "_27_",
+          "config": "_28_",
+          "notesMap": "_29_",
+          "operationMap": "_30_",
+          "langPackLink": "_31_",
+          "formatFn": "_32_",
+          "enableFormat": "_33_",
+          "usedIds": "_34_",
+          "loadStats": "_35_",
+          "errorMsg": "_36_",
+          "themes": "_37_",
+          "defaultThemes": "_38_",
+          "antdV4Variable": "_39_",
+          "domainModels": "_40_",
+          "msgAry": "_41_",
+          "name": "_42_",
+          "value": "_43_",
+          "viewId": "_44_",
+          "closeable": "_45_",
+          "status": "_46_",
+          "tabs": "_47_",
+          "showTitleBar": "_48_",
+          "_height": "_49_",
+          "width": "_50_",
+          "ifVisible": "_51_",
+          "height": "_52_",
+          "style": "_53_",
+          "slots": "_54_",
+          "notes": "_55_",
+          "outlineViewHeight": "_56_",
+          "outlineViewWidth": "_57_",
+          "curArtboardId": "_58_",
+          "styleInited": "_59_",
+          "showType": "_60_",
+          "frames": "_61_",
+          "varComAry": "_62_",
+          "comAry": "_63_",
+          "diagramAry": "_64_",
+          "bizType": "_65_",
+          "curDiagramId": "_66_",
+          "paramsFn": "_67_",
+          "resultFn": "_68_",
+          "errorResultFn": "_69_",
+          "configs": "_70_",
+          "zoom": "_71_",
+          "justifyContent": "_72_",
+          "alignItems": "_73_",
+          "left": "_74_",
+          "namespace": "_75_",
+          "version": "_76_",
+          "content": "_77_",
+          "capacity": "_78_",
+          "_defaultF": "_79_",
+          "_rootF": "_80_",
+          "type": "_81_",
+          "template": "_82_",
+          "proxyFor": "_83_",
+          "deletable": "_84_",
+          "schema": "_85_",
+          "zIndex": "_86_",
+          "_type": "_87_",
+          "editable": "_88_",
+          "frameAry": "_89_",
+          "inputPins": "_90_",
+          "_inputPins": "_91_",
+          "outputPins": "_92_",
+          "_outputPins": "_93_",
+          "inputJoints": "_94_",
+          "outputJoints": "_95_",
+          "zIndexCur": "_96_",
+          "inputsEditable": "_97_",
+          "outputsEditable": "_98_",
+          "debuggable": "_99_",
+          "variables": "_100_",
+          "key": "_101_",
+          "layout": "_102_",
+          "widthFact": "_103_",
+          "heightFact": "_104_",
+          "con": "_105_",
+          "com": "_106_",
+          "init": "_107_",
+          "runtime": "_108_",
+          "parent": "_109_",
+          "conAry": "_110_",
+          "typeTitle": "_111_",
+          "fromPlugin": "_112_",
+          "extFrameId": "_113_",
+          "direction": "_114_",
+          "hostId": "_115_",
+          "description": "_116_",
+          "wrap": "_117_",
+          "_schema": "_118_",
+          "forRef": "_119_",
+          "icon": "_120_",
+          "extValues": "_121_",
+          "extBinding": "_122_",
+          "editor": "_123_",
+          "foldedStyle": "_124_",
+          "configPins": "_125_",
+          "inputPinsInModel": "_126_",
+          "inputPinExts": "_127_",
+          "outputPinsInModel": "_128_",
+          "outputPinExts": "_129_",
+          "outputPinNexts": "_130_",
+          "diagramModel": "_131_",
+          "commentAry": "_132_",
+          "_title": "_133_",
+          "createTime": "_134_",
+          "isGlobal": "_135_",
+          "showIO": "_136_",
+          "startFrom": "_137_",
+          "undefined": "_138_",
+          "startWithCom": "_139_",
+          "updateTime": "_140_",
+          "conTemp": "_141_",
+          "active": "_142_",
+          "model": "_143_",
+          "refId": "_144_",
+          "def": "_145_",
+          "_autoRun": "_146_",
+          "topl": "_147_",
+          "geo": "_148_",
+          "visible": "_149_",
+          "forkedFrom": "_150_",
+          "ioc": "_151_",
+          "_startInDiagram": "_152_",
+          "_key": "_153_",
+          "io": "_154_",
+          "breakpoints": "_155_",
+          "data": "_156_",
+          "bindingsFrom": "_157_",
+          "bindingsTo": "_158_",
+          "inputAry": "_159_",
+          "outputAry": "_160_",
+          "outputEvents": "_161_",
+          "permissions": "_162_",
+          "spm": "_163_",
+          "extSourceCodes": "_164_",
+          "rtType": "_165_",
+          "rels": "_166_",
+          "_ing": "_167_",
+          "startPin": "_168_",
+          "finishPin": "_169_",
+          "errorInfo": "_170_",
+          "startPo": "_171_",
+          "finishPo": "_172_",
+          "inputs": "_173_",
+          "outputs": "_174_",
+          "asMapArea": "_175_",
+          "text": "_176_",
+          "dataType": "_177_",
+          "outVal": "_178_",
+          "inVal": "_179_",
+          "useIcon": "_180_",
+          "isCustom": "_181_",
+          "size": "_182_",
+          "shape": "_183_",
+          "src": "_184_",
+          "showText": "_185_",
+          "iconLocation": "_186_",
+          "iconDistance": "_187_",
+          "contentSize": "_188_",
+          "click": "_189_",
+          "clickOnRunning": "_190_",
+          "dbClick": "_191_",
+          "display": "_192_",
+          "visibility": "_193_",
+          "widthAuto": "_194_",
+          "widthFull": "_195_",
+          "heightAuto": "_196_",
+          "heightFull": "_197_",
+          "properties": "_198_",
+          "okText": "_199_",
+          "cancelText": "_200_",
+          "showTitle": "_201_",
+          "closable": "_202_",
+          "className": "_203_",
+          "isStarter": "_204_",
+          "j": "_205_",
+          "x": "_206_",
+          "y": "_207_",
+          "background": "_208_",
+          "selector": "_209_",
+          "outputValue": "_210_",
+          "options": "_211_"
+        }
+      },
+      "refs": {
+        "0": {
+          "_F_": 0,
+          "_0_": "u_xTlhT",
+          "_1_": {
+            "_R_": "1"
+          },
+          "_2_": 0.2,
+          "_3_": {
+            "_13_": {
+              "_27_": [],
+              "_28_": {
+                "_67_": "export default function ({ params, data, headers, url, method }) {\n  // 设置请求query、请求体、请求头\n  return { params, data, headers, url, method };\n }\n",
+                "_68_": "export default function ({ response, config }, { throwError }) {\n  // if (response.code !== 0) {\n  //    throwError(response.errMsg);\n  //    throwError({ message: response.errMsg || '我是复杂错误对象' });\n  // }\n  return response\n}\n",
+                "_69_": "export default function handleError({ error, response, config }, { throwError }) {\n  // 错误抛出时预处理数据，请注意：必须调用 throwError 抛出错误;\n  // config：请求入参；error：错误对象；response：响应原始对象；response.status：获取 HTTP 状态码，response.data：获取接口返回值\n  throwError(response.data.message || error.message || error);\n}\n"
+              }
+            },
+            "_14_": {
+              "_29_": {},
+              "_30_": {},
+              "_0_": "u_2it1rd7nbj"
+            },
+            "_15_": {
+              "_31_": "/mybricks-app-pcspa/public/i18n-example.json",
+              "_32_": "",
+              "_33_": false,
+              "_34_": [],
+              "_35_": 2,
+              "_36_": ""
+            },
+            "_16_": {
+              "_37_": [],
+              "_38_": [
+                {
+                  "_75_": "DEFAULT_THEME",
+                  "_76_": "1.0.0",
+                  "_24_": "默认主题",
+                  "_77_": {
+                    "_37_": [],
+                    "_100_": [
+                      {
+                        "_142_": true,
+                        "_101_": "default",
+                        "_24_": "默认主题",
+                        "_100_": [
+                          {
+                            "_0_": "mybricks@theme",
+                            "_70_": [
+                              {
+                                "_101_": "--mb-color-primary",
+                                "_43_": "#1890ff"
+                              },
+                              {
+                                "_101_": "--mb-color-primary-bg",
+                                "_43_": "#e6f7ff"
+                              },
+                              {
+                                "_101_": "--mb-color-primary-bg-hover",
+                                "_43_": "#bae7ff"
+                              },
+                              {
+                                "_101_": "--mb-color-primary-border",
+                                "_43_": "#91d5ff"
+                              },
+                              {
+                                "_101_": "--mb-color-primary-border-hover",
+                                "_43_": "#69c0ff"
+                              },
+                              {
+                                "_101_": "--mb-color-primary-hover",
+                                "_43_": "#40a9ff"
+                              },
+                              {
+                                "_101_": "--mb-color-primary-active",
+                                "_43_": "#096dd9"
+                              },
+                              {
+                                "_101_": "--mb-color-primary-text-hover",
+                                "_43_": "#40a9ff"
+                              },
+                              {
+                                "_101_": "--mb-color-primary-text",
+                                "_43_": "#1890ff"
+                              },
+                              {
+                                "_101_": "--mb-color-primary-text-active",
+                                "_43_": "#096dd9"
+                              },
+                              {
+                                "_101_": "--mb-color-error",
+                                "_43_": "#ff4d4f"
+                              },
+                              {
+                                "_101_": "--mb-color-error-bg",
+                                "_43_": "#fff2f0"
+                              },
+                              {
+                                "_101_": "--mb-color-error-bg-hover",
+                                "_43_": "#fff1f0"
+                              },
+                              {
+                                "_101_": "--mb-color-error-border",
+                                "_43_": "#ffccc7"
+                              },
+                              {
+                                "_101_": "--mb-color-error-border-hover",
+                                "_43_": "#ffa39e"
+                              },
+                              {
+                                "_101_": "--mb-color-error-hover",
+                                "_43_": "#ff7875"
+                              },
+                              {
+                                "_101_": "--mb-color-error-active",
+                                "_43_": "#d9363e"
+                              },
+                              {
+                                "_101_": "--mb-color-error-text-hover",
+                                "_43_": "#ff7875"
+                              },
+                              {
+                                "_101_": "--mb-color-error-text",
+                                "_43_": "#ff4d4f"
+                              },
+                              {
+                                "_101_": "--mb-color-error-text-active",
+                                "_43_": "#d9363e"
+                              },
+                              {
+                                "_101_": "--mb-color-warning",
+                                "_43_": "#faad14"
+                              },
+                              {
+                                "_101_": "--mb-color-warning-bg",
+                                "_43_": "#fffbe6"
+                              },
+                              {
+                                "_101_": "--mb-color-warning-bg-hover",
+                                "_43_": "#fff1b8"
+                              },
+                              {
+                                "_101_": "--mb-color-warning-border",
+                                "_43_": "#ffe58f"
+                              },
+                              {
+                                "_101_": "--mb-color-warning-border-hover",
+                                "_43_": "#ffd666"
+                              },
+                              {
+                                "_101_": "--mb-color-warning-hover",
+                                "_43_": "#ffd666"
+                              },
+                              {
+                                "_101_": "--mb-color-warning-active",
+                                "_43_": "#d48806"
+                              },
+                              {
+                                "_101_": "--mb-color-warning-text-hover",
+                                "_43_": "#ffc53d"
+                              },
+                              {
+                                "_101_": "--mb-color-warning-text",
+                                "_43_": "#faad14"
+                              },
+                              {
+                                "_101_": "--mb-color-warning-text-active",
+                                "_43_": "#d48806"
+                              },
+                              {
+                                "_101_": "--mb-color-success",
+                                "_43_": "#52c41a"
+                              },
+                              {
+                                "_101_": "--mb-color-success-bg",
+                                "_43_": "#f6ffed"
+                              },
+                              {
+                                "_101_": "--mb-color-success-bg-hover",
+                                "_43_": "#d9f7be"
+                              },
+                              {
+                                "_101_": "--mb-color-success-border",
+                                "_43_": "#b7eb8f"
+                              },
+                              {
+                                "_101_": "--mb-color-success-border-hover",
+                                "_43_": "#95de64"
+                              },
+                              {
+                                "_101_": "--mb-color-success-hover",
+                                "_43_": "#95de64"
+                              },
+                              {
+                                "_101_": "--mb-color-success-active",
+                                "_43_": "#389e0d"
+                              },
+                              {
+                                "_101_": "--mb-color-success-text-hover",
+                                "_43_": "#73d13d"
+                              },
+                              {
+                                "_101_": "--mb-color-success-text",
+                                "_43_": "#52c41a"
+                              },
+                              {
+                                "_101_": "--mb-color-success-text-active",
+                                "_43_": "#389e0d"
+                              },
+                              {
+                                "_101_": "--mb-color-info",
+                                "_43_": "#1890ff"
+                              },
+                              {
+                                "_101_": "--mb-color-info-bg",
+                                "_43_": "#e6f7ff"
+                              },
+                              {
+                                "_101_": "--mb-color-info-bg-hover",
+                                "_43_": "#bae7ff"
+                              },
+                              {
+                                "_101_": "--mb-color-info-border",
+                                "_43_": "#91d5ff"
+                              },
+                              {
+                                "_101_": "--mb-color-info-border-hover",
+                                "_43_": "#69c0ff"
+                              },
+                              {
+                                "_101_": "--mb-color-info-hover",
+                                "_43_": "#69c0ff"
+                              },
+                              {
+                                "_101_": "--mb-color-info-active",
+                                "_43_": "#096dd9"
+                              },
+                              {
+                                "_101_": "--mb-color-info-text-hover",
+                                "_43_": "#40a9ff"
+                              },
+                              {
+                                "_101_": "--mb-color-info-text",
+                                "_43_": "#1890ff"
+                              },
+                              {
+                                "_101_": "--mb-color-info-text-active",
+                                "_43_": "#096dd9"
+                              },
+                              {
+                                "_101_": "--mb-color-link",
+                                "_43_": "#1890ff"
+                              },
+                              {
+                                "_101_": "--mb-color-link-hover",
+                                "_43_": "#69c0ff"
+                              },
+                              {
+                                "_101_": "--mb-color-link-active",
+                                "_43_": "#096dd9"
+                              },
+                              {
+                                "_101_": "--mb-color-text-base",
+                                "_43_": "#000"
+                              },
+                              {
+                                "_101_": "--mb-color-text",
+                                "_43_": "rgba(0,0,0,0.88)"
+                              },
+                              {
+                                "_101_": "--mb-color-text-secondary",
+                                "_43_": "rgba(0,0,0,0.65)"
+                              },
+                              {
+                                "_101_": "--mb-color-text-tertiary",
+                                "_43_": "rgba(0,0,0,0.45)"
+                              },
+                              {
+                                "_101_": "--mb-color-text-quaternary",
+                                "_43_": "rgba(0,0,0,0.25)"
+                              },
+                              {
+                                "_101_": "--mb-color-bg-base",
+                                "_43_": "#fff"
+                              },
+                              {
+                                "_101_": "--mb-color-bg-container",
+                                "_43_": "#ffffff"
+                              },
+                              {
+                                "_101_": "--mb-color-bg-elevated",
+                                "_43_": "#ffffff"
+                              },
+                              {
+                                "_101_": "--mb-color-bg-layout",
+                                "_43_": "#f5f5f5"
+                              },
+                              {
+                                "_101_": "--mb-color-bg-spotlight",
+                                "_43_": "rgba(0,0,0,0.85)"
+                              },
+                              {
+                                "_101_": "--mb-color-bg-mask",
+                                "_43_": "rgba(0,0,0,0.45)"
+                              },
+                              {
+                                "_101_": "--mb-color-border",
+                                "_43_": "#d9d9d9"
+                              },
+                              {
+                                "_101_": "--mb-color-border-secondary",
+                                "_43_": "#f0f0f0"
+                              },
+                              {
+                                "_101_": "--mb-color-fill",
+                                "_43_": "rgba(0,0,0,0.15)"
+                              },
+                              {
+                                "_101_": "--mb-color-fill-secondary",
+                                "_43_": "rgba(0,0,0,0.06)"
+                              },
+                              {
+                                "_101_": "--mb-color-fill-tertiary",
+                                "_43_": "rgba(0,0,0,0.04)"
+                              },
+                              {
+                                "_101_": "--mb-color-fill-quaternary",
+                                "_43_": "rgba(0,0,0,0.02)"
+                              }
+                            ]
+                          },
+                          {
+                            "_0_": "custom@theme",
+                            "_70_": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ],
+              "_39_": {
+                "_0_": "antdV4@theme",
+                "_70_": [
+                  {
+                    "_101_": "--ant-primary-color",
+                    "_43_": "var(--mb-color-primary)"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-hover",
+                    "_43_": "var(--mb-color-primary-hover)"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-active",
+                    "_43_": "var(--mb-color-primary-active)"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-outline",
+                    "_43_": "var(--mb-color-primary-border)"
+                  },
+                  {
+                    "_101_": "--ant-primary-1",
+                    "_43_": "var(--mb-color-primary-bg)"
+                  },
+                  {
+                    "_101_": "--ant-primary-2",
+                    "_43_": "var(--mb-color-primary-bg-hover)"
+                  },
+                  {
+                    "_101_": "--ant-primary-3",
+                    "_43_": "var(--mb-color-primary-border)"
+                  },
+                  {
+                    "_101_": "--ant-primary-4",
+                    "_43_": "var(--mb-color-primary-border-hover)"
+                  },
+                  {
+                    "_101_": "--ant-primary-5",
+                    "_43_": "var(--mb-color-primary-hover)"
+                  },
+                  {
+                    "_101_": "--ant-primary-6",
+                    "_43_": "var(--mb-color-primary)"
+                  },
+                  {
+                    "_101_": "--ant-primary-7",
+                    "_43_": "var(--mb-color-primary-active)"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-deprecated-pure",
+                    "_43_": ""
+                  },
+                  {
+                    "_101_": "--ant-primary-color-deprecated-l-35",
+                    "_43_": "#cbe6ff"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-deprecated-l-20",
+                    "_43_": "#7ec1ff"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-deprecated-t-20",
+                    "_43_": "#46a6ff"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-deprecated-t-50",
+                    "_43_": "#8cc8ff"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-deprecated-f-12",
+                    "_43_": "rgba(24, 144, 255, 0.12)"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-active-deprecated-f-30",
+                    "_43_": "rgba(230, 247, 255, 0.3)"
+                  },
+                  {
+                    "_101_": "--ant-primary-color-active-deprecated-d-02",
+                    "_43_": "#dcf4ff"
+                  },
+                  {
+                    "_101_": "--ant-success-color",
+                    "_43_": "var(--mb-color-success)"
+                  },
+                  {
+                    "_101_": "--ant-success-color-hover",
+                    "_43_": "var(--mb-color-success-hover)"
+                  },
+                  {
+                    "_101_": "--ant-success-color-active",
+                    "_43_": "var(--mb-color-success-active)"
+                  },
+                  {
+                    "_101_": "--ant-success-color-outline",
+                    "_43_": "var(--mb-color-success-border)"
+                  },
+                  {
+                    "_101_": "--ant-success-color-deprecated-bg",
+                    "_43_": "#f6ffed"
+                  },
+                  {
+                    "_101_": "--ant-success-color-deprecated-border",
+                    "_43_": "#b7eb8f"
+                  },
+                  {
+                    "_101_": "--ant-error-color",
+                    "_43_": "var(--mb-color-error)"
+                  },
+                  {
+                    "_101_": "--ant-error-color-hover",
+                    "_43_": "var(--mb-color-error-hover)"
+                  },
+                  {
+                    "_101_": "--ant-error-color-active",
+                    "_43_": "var(--mb-color-error-active)"
+                  },
+                  {
+                    "_101_": "--ant-error-color-outline",
+                    "_43_": "var(--mb-color-error-border)"
+                  },
+                  {
+                    "_101_": "--ant-error-color-deprecated-bg",
+                    "_43_": "#fff2f0"
+                  },
+                  {
+                    "_101_": "--ant-error-color-deprecated-border",
+                    "_43_": "#ffccc7"
+                  },
+                  {
+                    "_101_": "--ant-warning-color",
+                    "_43_": "var(--mb-color-warning)"
+                  },
+                  {
+                    "_101_": "--ant-warning-color-hover",
+                    "_43_": "var(--mb-color-warning-hover)"
+                  },
+                  {
+                    "_101_": "--ant-warning-color-active",
+                    "_43_": "var(--mb-color-warning-active)"
+                  },
+                  {
+                    "_101_": "--ant-warning-color-outline",
+                    "_43_": "var(--mb-color-warning-border)"
+                  },
+                  {
+                    "_101_": "--ant-warning-color-deprecated-bg",
+                    "_43_": "#fffbe6"
+                  },
+                  {
+                    "_101_": "--ant-warning-color-deprecated-border",
+                    "_43_": "#ffe58f"
+                  },
+                  {
+                    "_101_": "--ant-info-color",
+                    "_43_": "var(--mb-color-info)"
+                  },
+                  {
+                    "_101_": "--ant-info-color-deprecated-bg",
+                    "_43_": "#e6f7ff"
+                  },
+                  {
+                    "_101_": "--ant-info-color-deprecated-border",
+                    "_43_": "#91d5ff"
+                  }
+                ]
+              }
+            },
+            "_17_": {},
+            "_18_": {
+              "_40_": []
+            },
+            "_19_": {},
+            "_20_": {
+              "_41_": []
+            }
+          },
+          "_4_": {},
+          "_5_": 44,
+          "_6_": {},
+          "_7_": [
+            {
+              "_42_": "--mb-color-primary",
+              "_43_": "#1890ff"
+            },
+            {
+              "_42_": "--mb-color-primary-bg",
+              "_43_": "#e6f7ff"
+            },
+            {
+              "_42_": "--mb-color-primary-bg-hover",
+              "_43_": "#bae7ff"
+            },
+            {
+              "_42_": "--mb-color-primary-border",
+              "_43_": "#91d5ff"
+            },
+            {
+              "_42_": "--mb-color-primary-border-hover",
+              "_43_": "#69c0ff"
+            },
+            {
+              "_42_": "--mb-color-primary-hover",
+              "_43_": "#40a9ff"
+            },
+            {
+              "_42_": "--mb-color-primary-active",
+              "_43_": "#096dd9"
+            },
+            {
+              "_42_": "--mb-color-primary-text-hover",
+              "_43_": "#40a9ff"
+            },
+            {
+              "_42_": "--mb-color-primary-text",
+              "_43_": "#1890ff"
+            },
+            {
+              "_42_": "--mb-color-primary-text-active",
+              "_43_": "#096dd9"
+            },
+            {
+              "_42_": "--mb-color-error",
+              "_43_": "#ff4d4f"
+            },
+            {
+              "_42_": "--mb-color-error-bg",
+              "_43_": "#fff2f0"
+            },
+            {
+              "_42_": "--mb-color-error-bg-hover",
+              "_43_": "#fff1f0"
+            },
+            {
+              "_42_": "--mb-color-error-border",
+              "_43_": "#ffccc7"
+            },
+            {
+              "_42_": "--mb-color-error-border-hover",
+              "_43_": "#ffa39e"
+            },
+            {
+              "_42_": "--mb-color-error-hover",
+              "_43_": "#ff7875"
+            },
+            {
+              "_42_": "--mb-color-error-active",
+              "_43_": "#d9363e"
+            },
+            {
+              "_42_": "--mb-color-error-text-hover",
+              "_43_": "#ff7875"
+            },
+            {
+              "_42_": "--mb-color-error-text",
+              "_43_": "#ff4d4f"
+            },
+            {
+              "_42_": "--mb-color-error-text-active",
+              "_43_": "#d9363e"
+            },
+            {
+              "_42_": "--mb-color-warning",
+              "_43_": "#faad14"
+            },
+            {
+              "_42_": "--mb-color-warning-bg",
+              "_43_": "#fffbe6"
+            },
+            {
+              "_42_": "--mb-color-warning-bg-hover",
+              "_43_": "#fff1b8"
+            },
+            {
+              "_42_": "--mb-color-warning-border",
+              "_43_": "#ffe58f"
+            },
+            {
+              "_42_": "--mb-color-warning-border-hover",
+              "_43_": "#ffd666"
+            },
+            {
+              "_42_": "--mb-color-warning-hover",
+              "_43_": "#ffd666"
+            },
+            {
+              "_42_": "--mb-color-warning-active",
+              "_43_": "#d48806"
+            },
+            {
+              "_42_": "--mb-color-warning-text-hover",
+              "_43_": "#ffc53d"
+            },
+            {
+              "_42_": "--mb-color-warning-text",
+              "_43_": "#faad14"
+            },
+            {
+              "_42_": "--mb-color-warning-text-active",
+              "_43_": "#d48806"
+            },
+            {
+              "_42_": "--mb-color-success",
+              "_43_": "#52c41a"
+            },
+            {
+              "_42_": "--mb-color-success-bg",
+              "_43_": "#f6ffed"
+            },
+            {
+              "_42_": "--mb-color-success-bg-hover",
+              "_43_": "#d9f7be"
+            },
+            {
+              "_42_": "--mb-color-success-border",
+              "_43_": "#b7eb8f"
+            },
+            {
+              "_42_": "--mb-color-success-border-hover",
+              "_43_": "#95de64"
+            },
+            {
+              "_42_": "--mb-color-success-hover",
+              "_43_": "#95de64"
+            },
+            {
+              "_42_": "--mb-color-success-active",
+              "_43_": "#389e0d"
+            },
+            {
+              "_42_": "--mb-color-success-text-hover",
+              "_43_": "#73d13d"
+            },
+            {
+              "_42_": "--mb-color-success-text",
+              "_43_": "#52c41a"
+            },
+            {
+              "_42_": "--mb-color-success-text-active",
+              "_43_": "#389e0d"
+            },
+            {
+              "_42_": "--mb-color-info",
+              "_43_": "#1890ff"
+            },
+            {
+              "_42_": "--mb-color-info-bg",
+              "_43_": "#e6f7ff"
+            },
+            {
+              "_42_": "--mb-color-info-bg-hover",
+              "_43_": "#bae7ff"
+            },
+            {
+              "_42_": "--mb-color-info-border",
+              "_43_": "#91d5ff"
+            },
+            {
+              "_42_": "--mb-color-info-border-hover",
+              "_43_": "#69c0ff"
+            },
+            {
+              "_42_": "--mb-color-info-hover",
+              "_43_": "#69c0ff"
+            },
+            {
+              "_42_": "--mb-color-info-active",
+              "_43_": "#096dd9"
+            },
+            {
+              "_42_": "--mb-color-info-text-hover",
+              "_43_": "#40a9ff"
+            },
+            {
+              "_42_": "--mb-color-info-text",
+              "_43_": "#1890ff"
+            },
+            {
+              "_42_": "--mb-color-info-text-active",
+              "_43_": "#096dd9"
+            },
+            {
+              "_42_": "--mb-color-link",
+              "_43_": "#1890ff"
+            },
+            {
+              "_42_": "--mb-color-link-hover",
+              "_43_": "#69c0ff"
+            },
+            {
+              "_42_": "--mb-color-link-active",
+              "_43_": "#096dd9"
+            },
+            {
+              "_42_": "--mb-color-text-base",
+              "_43_": "#000"
+            },
+            {
+              "_42_": "--mb-color-text",
+              "_43_": "rgba(0,0,0,0.88)"
+            },
+            {
+              "_42_": "--mb-color-text-secondary",
+              "_43_": "rgba(0,0,0,0.65)"
+            },
+            {
+              "_42_": "--mb-color-text-tertiary",
+              "_43_": "rgba(0,0,0,0.45)"
+            },
+            {
+              "_42_": "--mb-color-text-quaternary",
+              "_43_": "rgba(0,0,0,0.25)"
+            },
+            {
+              "_42_": "--mb-color-bg-base",
+              "_43_": "#fff"
+            },
+            {
+              "_42_": "--mb-color-bg-container",
+              "_43_": "#ffffff"
+            },
+            {
+              "_42_": "--mb-color-bg-elevated",
+              "_43_": "#ffffff"
+            },
+            {
+              "_42_": "--mb-color-bg-layout",
+              "_43_": "#f5f5f5"
+            },
+            {
+              "_42_": "--mb-color-bg-spotlight",
+              "_43_": "rgba(0,0,0,0.85)"
+            },
+            {
+              "_42_": "--mb-color-bg-mask",
+              "_43_": "rgba(0,0,0,0.45)"
+            },
+            {
+              "_42_": "--mb-color-border",
+              "_43_": "#d9d9d9"
+            },
+            {
+              "_42_": "--mb-color-border-secondary",
+              "_43_": "#f0f0f0"
+            },
+            {
+              "_42_": "--mb-color-fill",
+              "_43_": "rgba(0,0,0,0.15)"
+            },
+            {
+              "_42_": "--mb-color-fill-secondary",
+              "_43_": "rgba(0,0,0,0.06)"
+            },
+            {
+              "_42_": "--mb-color-fill-tertiary",
+              "_43_": "rgba(0,0,0,0.04)"
+            },
+            {
+              "_42_": "--mb-color-fill-quaternary",
+              "_43_": "rgba(0,0,0,0.02)"
+            },
+            {
+              "_42_": "--ant-primary-color",
+              "_43_": "var(--mb-color-primary)"
+            },
+            {
+              "_42_": "--ant-primary-color-hover",
+              "_43_": "var(--mb-color-primary-hover)"
+            },
+            {
+              "_42_": "--ant-primary-color-active",
+              "_43_": "var(--mb-color-primary-active)"
+            },
+            {
+              "_42_": "--ant-primary-color-outline",
+              "_43_": "var(--mb-color-primary-border)"
+            },
+            {
+              "_42_": "--ant-primary-1",
+              "_43_": "var(--mb-color-primary-bg)"
+            },
+            {
+              "_42_": "--ant-primary-2",
+              "_43_": "var(--mb-color-primary-bg-hover)"
+            },
+            {
+              "_42_": "--ant-primary-3",
+              "_43_": "var(--mb-color-primary-border)"
+            },
+            {
+              "_42_": "--ant-primary-4",
+              "_43_": "var(--mb-color-primary-border-hover)"
+            },
+            {
+              "_42_": "--ant-primary-5",
+              "_43_": "var(--mb-color-primary-hover)"
+            },
+            {
+              "_42_": "--ant-primary-6",
+              "_43_": "var(--mb-color-primary)"
+            },
+            {
+              "_42_": "--ant-primary-7",
+              "_43_": "var(--mb-color-primary-active)"
+            },
+            {
+              "_42_": "--ant-primary-color-deprecated-pure",
+              "_43_": ""
+            },
+            {
+              "_42_": "--ant-primary-color-deprecated-l-35",
+              "_43_": "#cbe6ff"
+            },
+            {
+              "_42_": "--ant-primary-color-deprecated-l-20",
+              "_43_": "#7ec1ff"
+            },
+            {
+              "_42_": "--ant-primary-color-deprecated-t-20",
+              "_43_": "#46a6ff"
+            },
+            {
+              "_42_": "--ant-primary-color-deprecated-t-50",
+              "_43_": "#8cc8ff"
+            },
+            {
+              "_42_": "--ant-primary-color-deprecated-f-12",
+              "_43_": "rgba(24, 144, 255, 0.12)"
+            },
+            {
+              "_42_": "--ant-primary-color-active-deprecated-f-30",
+              "_43_": "rgba(230, 247, 255, 0.3)"
+            },
+            {
+              "_42_": "--ant-primary-color-active-deprecated-d-02",
+              "_43_": "#dcf4ff"
+            },
+            {
+              "_42_": "--ant-success-color",
+              "_43_": "var(--mb-color-success)"
+            },
+            {
+              "_42_": "--ant-success-color-hover",
+              "_43_": "var(--mb-color-success-hover)"
+            },
+            {
+              "_42_": "--ant-success-color-active",
+              "_43_": "var(--mb-color-success-active)"
+            },
+            {
+              "_42_": "--ant-success-color-outline",
+              "_43_": "var(--mb-color-success-border)"
+            },
+            {
+              "_42_": "--ant-success-color-deprecated-bg",
+              "_43_": "#f6ffed"
+            },
+            {
+              "_42_": "--ant-success-color-deprecated-border",
+              "_43_": "#b7eb8f"
+            },
+            {
+              "_42_": "--ant-error-color",
+              "_43_": "var(--mb-color-error)"
+            },
+            {
+              "_42_": "--ant-error-color-hover",
+              "_43_": "var(--mb-color-error-hover)"
+            },
+            {
+              "_42_": "--ant-error-color-active",
+              "_43_": "var(--mb-color-error-active)"
+            },
+            {
+              "_42_": "--ant-error-color-outline",
+              "_43_": "var(--mb-color-error-border)"
+            },
+            {
+              "_42_": "--ant-error-color-deprecated-bg",
+              "_43_": "#fff2f0"
+            },
+            {
+              "_42_": "--ant-error-color-deprecated-border",
+              "_43_": "#ffccc7"
+            },
+            {
+              "_42_": "--ant-warning-color",
+              "_43_": "var(--mb-color-warning)"
+            },
+            {
+              "_42_": "--ant-warning-color-hover",
+              "_43_": "var(--mb-color-warning-hover)"
+            },
+            {
+              "_42_": "--ant-warning-color-active",
+              "_43_": "var(--mb-color-warning-active)"
+            },
+            {
+              "_42_": "--ant-warning-color-outline",
+              "_43_": "var(--mb-color-warning-border)"
+            },
+            {
+              "_42_": "--ant-warning-color-deprecated-bg",
+              "_43_": "#fffbe6"
+            },
+            {
+              "_42_": "--ant-warning-color-deprecated-border",
+              "_43_": "#ffe58f"
+            },
+            {
+              "_42_": "--ant-info-color",
+              "_43_": "var(--mb-color-info)"
+            },
+            {
+              "_42_": "--ant-info-color-deprecated-bg",
+              "_43_": "#e6f7ff"
+            },
+            {
+              "_42_": "--ant-info-color-deprecated-border",
+              "_43_": "#91d5ff"
+            }
+          ],
+          "_8_": [],
+          "_9_": [],
+          "_10_": {
+            "_21_": {
+              "_R_": "2"
+            },
+            "_22_": {
+              "_R_": "3"
+            }
+          },
+          "_11_": 250,
+          "_12_": {
+            "_23_": "_main_",
+            "_24_": "主模块",
+            "_25_": {
+              "_R_": "4"
+            },
+            "_26_": {
+              "_R_": "5"
+            }
+          }
+        },
+        "1": {
+          "_F_": 1
+        },
+        "2": {
+          "_F_": 2,
+          "_0_": "u_5aTuj",
+          "_1_": {
+            "_R_": "6"
+          },
+          "_44_": "top",
+          "_45_": false,
+          "_46_": "normal",
+          "_47_": [
+            "geoView"
+          ],
+          "_48_": false,
+          "_49_": "auto",
+          "_52_": "auto"
+        },
+        "3": {
+          "_F_": 2,
+          "_0_": "u_GzG8b",
+          "_1_": {
+            "_R_": "7"
+          },
+          "_44_": "bottom",
+          "_45_": false,
+          "_46_": "normal",
+          "_47_": [
+            "toplView"
+          ],
+          "_48_": true
+        },
+        "4": {
+          "_F_": 3,
+          "_0_": "u_EYohJ",
+          "_1_": {
+            "_R_": "8"
+          },
+          "_42_": "geo",
+          "_53_": {
+            "_R_": "9"
+          },
+          "_54_": [
+            {
+              "_R_": "11"
+            }
+          ],
+          "_55_": [],
+          "_56_": 120,
+          "_57_": 200,
+          "_58_": "u_FC9eK",
+          "_59_": true,
+          "_60_": "pc"
+        },
+        "5": {
+          "_F_": 4,
+          "_0_": "u_d2n4z",
+          "_1_": {
+            "_R_": "10"
+          },
+          "_42_": "topl",
+          "_61_": [
+            {
+              "_R_": "12"
+            }
+          ],
+          "_62_": [],
+          "_63_": [],
+          "_64_": [],
+          "_53_": {
+            "_74_": 150,
+            "_21_": 150
+          },
+          "_65_": "ui",
+          "_66_": "u_0YnuH"
+        },
+        "6": {
+          "_F_": 1
+        },
+        "7": {
+          "_F_": 1
+        },
+        "8": {
+          "_F_": 1
+        },
+        "9": {
+          "_F_": 5,
+          "_71_": 1,
+          "_72_": "flex-start",
+          "_73_": "flex-start",
+          "_52_": 800,
+          "_50_": 1024,
+          "_74_": 263,
+          "_21_": 42
+        },
+        "10": {
+          "_F_": 1
+        },
+        "11": {
+          "_F_": 6,
+          "_0_": "u_FC9eK",
+          "_1_": {
+            "_R_": "13"
+          },
+          "_54_": [],
+          "_63_": [
+            {
+              "_R_": "16"
+            }
+          ],
+          "_53_": {
+            "_R_": "14"
+          },
+          "_24_": "页面"
+        },
+        "12": {
+          "_F_": 7,
+          "_0_": "u_FC9eK",
+          "_1_": {
+            "_R_": "15"
+          },
+          "_86_": 0,
+          "_87_": 0,
+          "_53_": {
+            "_74_": null,
+            "_21_": null
+          },
+          "_88_": true,
+          "_89_": [],
+          "_90_": [
+            {
+              "_R_": "17"
+            }
+          ],
+          "_91_": [],
+          "_92_": [],
+          "_93_": [],
+          "_94_": [],
+          "_95_": [],
+          "_63_": [
+            {
+              "_R_": "18"
+            },
+            {
+              "_R_": "19"
+            }
+          ],
+          "_64_": [
+            {
+              "_R_": "20"
+            },
+            {
+              "_R_": "21"
+            }
+          ],
+          "_96_": {
+            "_105_": 0,
+            "_106_": 100
+          },
+          "_24_": "页面",
+          "_81_": "normal",
+          "_79_": true
+        },
+        "13": {
+          "_F_": 1
+        },
+        "14": {
+          "_F_": 5,
+          "_71_": 1,
+          "_72_": "flex-start",
+          "_73_": "flex-start",
+          "_102_": "smart",
+          "_52_": 800,
+          "_50_": 1024,
+          "_103_": 1024,
+          "_104_": 800
+        },
+        "15": {
+          "_F_": 1
+        },
+        "16": {
+          "_F_": 8,
+          "_1_": {
+            "_R_": "22"
+          },
+          "_107_": true,
+          "_42_": "u_flqun",
+          "_108_": {
+            "_R_": "23"
+          },
+          "_109_": {
+            "_R_": "11"
+          }
+        },
+        "17": {
+          "_F_": 9,
+          "_0_": "open",
+          "_1_": {
+            "_R_": "24"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "inner-output",
+          "_115_": "open",
+          "_118_": {
+            "_81_": "any"
+          },
+          "_109_": {
+            "_R_": "12"
+          },
+          "_24_": "打开",
+          "_85_": {
+            "_81_": "any"
+          }
+        },
+        "18": {
+          "_F_": 10,
+          "_1_": {
+            "_R_": "25"
+          },
+          "_87_": 1,
+          "_107_": false,
+          "_53_": {
+            "_50_": 0,
+            "_52_": 0,
+            "_74_": 280,
+            "_21_": 560
+          },
+          "_124_": {},
+          "_125_": [],
+          "_91_": [],
+          "_90_": [
+            {
+              "_R_": "31"
+            },
+            {
+              "_R_": "32"
+            },
+            {
+              "_R_": "33"
+            },
+            {
+              "_R_": "34"
+            },
+            {
+              "_R_": "35"
+            }
+          ],
+          "_126_": [],
+          "_127_": [
+            {
+              "_R_": "36"
+            },
+            {
+              "_R_": "37"
+            },
+            {
+              "_R_": "38"
+            },
+            {
+              "_R_": "39"
+            }
+          ],
+          "_93_": [],
+          "_92_": [
+            {
+              "_R_": "40"
+            },
+            {
+              "_R_": "41"
+            },
+            {
+              "_R_": "42"
+            },
+            {
+              "_R_": "43"
+            },
+            {
+              "_R_": "44"
+            },
+            {
+              "_R_": "45"
+            }
+          ],
+          "_128_": [],
+          "_129_": [],
+          "_130_": [],
+          "_42_": "u_flqun",
+          "_108_": {
+            "_R_": "23"
+          },
+          "_109_": {
+            "_R_": "12"
+          }
+        },
+        "19": {
+          "_F_": 10,
+          "_1_": {
+            "_R_": "26"
+          },
+          "_87_": 1,
+          "_107_": false,
+          "_53_": {
+            "_50_": 90,
+            "_52_": 65,
+            "_74_": 226,
+            "_21_": 58
+          },
+          "_124_": {},
+          "_125_": [],
+          "_91_": [],
+          "_90_": [
+            {
+              "_R_": "46"
+            }
+          ],
+          "_126_": [],
+          "_127_": [],
+          "_93_": [],
+          "_92_": [
+            {
+              "_R_": "47"
+            },
+            {
+              "_R_": "48"
+            }
+          ],
+          "_128_": [],
+          "_129_": [],
+          "_130_": [],
+          "_42_": "u_dEVE0",
+          "_108_": {
+            "_R_": "27"
+          },
+          "_116_": "类型：确认\n标题：标题\n内容：内容详情",
+          "_109_": {
+            "_R_": "12"
+          },
+          "_131_": {
+            "_R_": "21"
+          }
+        },
+        "20": {
+          "_F_": 11,
+          "_0_": "u_j28VA",
+          "_1_": {
+            "_R_": "28"
+          },
+          "_63_": [],
+          "_92_": [],
+          "_95_": [],
+          "_110_": [],
+          "_132_": [],
+          "_53_": {
+            "_149_": false,
+            "_74_": null,
+            "_21_": null,
+            "_52_": 400,
+            "_50_": 700
+          },
+          "_109_": {
+            "_R_": "12"
+          },
+          "_133_": "页面",
+          "_134_": 1754043153541,
+          "_135_": true,
+          "_136_": true,
+          "_24_": "页面",
+          "_138_": {
+            "_141_": true
+          }
+        },
+        "21": {
+          "_F_": 11,
+          "_0_": "u_0YnuH",
+          "_1_": {
+            "_R_": "29"
+          },
+          "_63_": [
+            {
+              "_R_": "30"
+            },
+            {
+              "_R_": "19"
+            }
+          ],
+          "_92_": [],
+          "_95_": [],
+          "_110_": [
+            {
+              "_R_": "49"
+            }
+          ],
+          "_132_": [],
+          "_53_": {
+            "_149_": true,
+            "_74_": null,
+            "_21_": 450,
+            "_52_": 400,
+            "_50_": 700
+          },
+          "_109_": {
+            "_R_": "12"
+          },
+          "_139_": {
+            "_R_": "30"
+          },
+          "_133_": "按钮 > 单击",
+          "_134_": 1754043176354,
+          "_140_": 1754043176355,
+          "_24_": "按钮 > 单击",
+          "_138_": {
+            "_141_": true
+          }
+        },
+        "22": {
+          "_F_": 1
+        },
+        "23": {
+          "_F_": 12,
+          "_0_": "u_0C69n",
+          "_143_": {
+            "_156_": {
+              "_175_": false,
+              "_176_": "按钮",
+              "_177_": "number",
+              "_178_": 0,
+              "_179_": "",
+              "_180_": false,
+              "_181_": false,
+              "_120_": "HomeOutlined",
+              "_182_": "middle",
+              "_81_": "primary",
+              "_183_": "default",
+              "_184_": "",
+              "_185_": true,
+              "_186_": "front",
+              "_187_": 8,
+              "_188_": [
+                14,
+                14
+              ]
+            },
+            "_159_": [],
+            "_160_": [],
+            "_161_": {
+              "_189_": [
+                {
+                  "_81_": "defined",
+                  "_211_": {
+                    "_0_": "u_0YnuH",
+                    "_24_": "按钮 > 单击"
+                  },
+                  "_142_": true
+                }
+              ],
+              "_190_": [
+                {
+                  "_81_": "defined",
+                  "_211_": {},
+                  "_142_": true
+                }
+              ],
+              "_191_": [
+                {
+                  "_81_": "defined",
+                  "_211_": {},
+                  "_142_": true
+                }
+              ]
+            },
+            "_53_": {
+              "_R_": "51"
+            }
+          },
+          "_24_": "按钮",
+          "_144_": "custom-button__OK",
+          "_145_": {
+            "_75_": "mybricks.normal-pc.antd5.custom-button",
+            "_76_": "1.0.38"
+          },
+          "_146_": true,
+          "_147_": {
+            "_R_": "18"
+          },
+          "_148_": {
+            "_R_": "16"
+          }
+        },
+        "24": {
+          "_F_": 1
+        },
+        "25": {
+          "_F_": 1
+        },
+        "26": {
+          "_F_": 1
+        },
+        "27": {
+          "_F_": 12,
+          "_0_": "u_qSnO_",
+          "_143_": {
+            "_156_": {
+              "_81_": "confirm",
+              "_24_": "标题",
+              "_77_": "内容详情",
+              "_199_": "确定",
+              "_200_": "取消",
+              "_201_": true,
+              "_50_": 520,
+              "_180_": false,
+              "_202_": false,
+              "_203_": "modalWrap"
+            },
+            "_159_": [],
+            "_160_": [],
+            "_161_": {},
+            "_53_": {
+              "_R_": "70"
+            }
+          },
+          "_24_": "确认提示",
+          "_144_": "tips_5Ju",
+          "_145_": {
+            "_75_": "mybricks.normal-pc.antd5.tips",
+            "_76_": "1.0.15",
+            "_165_": "js"
+          },
+          "_147_": {
+            "_R_": "19"
+          }
+        },
+        "28": {
+          "_F_": 1
+        },
+        "29": {
+          "_F_": 1
+        },
+        "30": {
+          "_F_": 13,
+          "_1_": {
+            "_R_": "50"
+          },
+          "_87_": 1,
+          "_107_": false,
+          "_53_": {
+            "_50_": 0,
+            "_52_": 0,
+            "_74_": 50,
+            "_21_": 26
+          },
+          "_124_": {},
+          "_125_": [],
+          "_91_": [],
+          "_90_": [],
+          "_126_": [],
+          "_127_": [],
+          "_93_": [],
+          "_92_": [
+            {
+              "_R_": "72"
+            }
+          ],
+          "_128_": [],
+          "_129_": [],
+          "_130_": [],
+          "_109_": {
+            "_R_": "21"
+          },
+          "_150_": {
+            "_R_": "18"
+          },
+          "_151_": {
+            "_70_": {},
+            "_173_": {},
+            "_174_": {
+              "_189_": true
+            }
+          },
+          "_131_": {
+            "_R_": "21"
+          },
+          "_152_": true,
+          "_153_": "u_ZWYcG"
+        },
+        "31": {
+          "_F_": 9,
+          "_0_": "u_Xcq0s",
+          "_1_": {
+            "_R_": "52"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "input",
+          "_115_": "dynamicTitle",
+          "_118_": {
+            "_81_": "string"
+          },
+          "_166_": [
+            "setDynamicTitleDone"
+          ],
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "设置标题",
+          "_85_": {
+            "_81_": "string"
+          }
+        },
+        "32": {
+          "_F_": 9,
+          "_0_": "u_UOjtY",
+          "_1_": {
+            "_R_": "53"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "input",
+          "_115_": "dynamicDisabled",
+          "_118_": {
+            "_81_": "boolean"
+          },
+          "_166_": [
+            "setDynamicDisabledDone"
+          ],
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "设置状态：禁用",
+          "_85_": {
+            "_81_": "boolean"
+          }
+        },
+        "33": {
+          "_F_": 9,
+          "_0_": "u_Bv6Pq",
+          "_1_": {
+            "_R_": "54"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "input",
+          "_115_": "setStateRunning",
+          "_116_": "设置按钮为运行中状态，可传递显示按钮的文案",
+          "_118_": {
+            "_81_": "string"
+          },
+          "_166_": [
+            "setDynamicDisabledDone"
+          ],
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "设置状态：运行中",
+          "_85_": {
+            "_81_": "string"
+          }
+        },
+        "34": {
+          "_F_": 9,
+          "_0_": "u_EpOht",
+          "_1_": {
+            "_R_": "55"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "input",
+          "_115_": "setStateNormal",
+          "_116_": "设置按钮为常规状态，可传递显示按钮的文案",
+          "_118_": {
+            "_81_": "string"
+          },
+          "_166_": [
+            "setDynamicDisabledDone"
+          ],
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "恢复",
+          "_85_": {
+            "_81_": "string"
+          }
+        },
+        "35": {
+          "_F_": 9,
+          "_0_": "u_pWLk9",
+          "_1_": {
+            "_R_": "56"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "input",
+          "_115_": "setDynamicStyle",
+          "_118_": {
+            "_81_": "object",
+            "_198_": {
+              "_208_": {
+                "_81_": "string"
+              }
+            }
+          },
+          "_166_": [
+            "setDynamicStyleDone"
+          ],
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "设置动态样式",
+          "_85_": {
+            "_81_": "object",
+            "_198_": {
+              "_208_": {
+                "_81_": "string"
+              }
+            }
+          }
+        },
+        "36": {
+          "_F_": 9,
+          "_0_": "u_Ag5D3",
+          "_1_": {
+            "_R_": "57"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "ext",
+          "_110_": [],
+          "_114_": "input",
+          "_115_": "_setStyle",
+          "_116_": "根据selector(CSS)设置组件的样式，例如:{'.button':{color:'red',fontSize:'12px'}}",
+          "_118_": {
+            "_81_": "object",
+            "_198_": {
+              "_209_": {
+                "_24_": "selector",
+                "_81_": "object",
+                "_198_": {},
+                "_116_": "key:样式名称(驼峰写法),value:样式值"
+              }
+            }
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "设置样式",
+          "_85_": {
+            "_81_": "object",
+            "_198_": {
+              "_209_": {
+                "_24_": "selector",
+                "_81_": "object",
+                "_198_": {},
+                "_116_": "key:样式名称(驼峰写法),value:样式值"
+              }
+            }
+          }
+        },
+        "37": {
+          "_F_": 9,
+          "_0_": "u_EbPTz",
+          "_1_": {
+            "_R_": "58"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "ext",
+          "_110_": [],
+          "_114_": "input",
+          "_115_": "show",
+          "_116_": "显示该组件",
+          "_118_": {
+            "_81_": "any"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "显示",
+          "_85_": {
+            "_81_": "any"
+          }
+        },
+        "38": {
+          "_F_": 9,
+          "_0_": "u_kweeJ",
+          "_1_": {
+            "_R_": "59"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "ext",
+          "_110_": [],
+          "_114_": "input",
+          "_115_": "hide",
+          "_116_": "隐藏该组件",
+          "_118_": {
+            "_81_": "any"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "隐藏",
+          "_85_": {
+            "_81_": "any"
+          }
+        },
+        "39": {
+          "_F_": 9,
+          "_0_": "u_csORQ",
+          "_1_": {
+            "_R_": "60"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "ext",
+          "_110_": [],
+          "_114_": "input",
+          "_115_": "showOrHide",
+          "_116_": "根据输入的数据(true/false 或 1/0等)切换显示与隐藏",
+          "_118_": {
+            "_81_": "any"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "显示/隐藏",
+          "_85_": {
+            "_81_": "any"
+          }
+        },
+        "40": {
+          "_F_": 9,
+          "_0_": "u_ajrtt",
+          "_1_": {
+            "_R_": "61"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [
+            {
+              "_R_": "49"
+            }
+          ],
+          "_114_": "output",
+          "_115_": "click",
+          "_118_": {
+            "_81_": "number"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "单击",
+          "_85_": {
+            "_81_": "number"
+          }
+        },
+        "41": {
+          "_F_": 9,
+          "_0_": "u_o1ZfI",
+          "_1_": {
+            "_R_": "62"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "output",
+          "_115_": "clickOnRunning",
+          "_118_": {
+            "_81_": "number"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "运行时单击",
+          "_85_": {
+            "_81_": "number"
+          }
+        },
+        "42": {
+          "_F_": 9,
+          "_0_": "u_pGC5B",
+          "_1_": {
+            "_R_": "63"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "output",
+          "_115_": "dbClick",
+          "_118_": {
+            "_81_": "number"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "双击",
+          "_85_": {
+            "_81_": "number"
+          }
+        },
+        "43": {
+          "_F_": 9,
+          "_0_": "u_n22bi",
+          "_1_": {
+            "_R_": "64"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "output",
+          "_115_": "setDynamicTitleDone",
+          "_118_": {
+            "_81_": "string"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "设置标题完成",
+          "_85_": {
+            "_81_": "string"
+          }
+        },
+        "44": {
+          "_F_": 9,
+          "_0_": "u_5faie",
+          "_1_": {
+            "_R_": "65"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "output",
+          "_115_": "setDynamicDisabledDone",
+          "_118_": {
+            "_81_": "boolean"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "设置禁用完成",
+          "_85_": {
+            "_81_": "boolean"
+          }
+        },
+        "45": {
+          "_F_": 9,
+          "_0_": "u_vaHCd",
+          "_1_": {
+            "_R_": "66"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "output",
+          "_115_": "setDynamicStyle",
+          "_118_": {
+            "_81_": "any"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "18"
+          },
+          "_24_": "设置动态样式完成",
+          "_85_": {
+            "_81_": "any"
+          }
+        },
+        "46": {
+          "_F_": 9,
+          "_0_": "u_krTAn",
+          "_1_": {
+            "_R_": "67"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [
+            {
+              "_R_": "49"
+            }
+          ],
+          "_114_": "input",
+          "_115_": "open",
+          "_116_": "触发确认提示弹出",
+          "_118_": {
+            "_81_": "object",
+            "_198_": {
+              "_24_": {
+                "_81_": "string",
+                "_116_": "标题文案"
+              },
+              "_77_": {
+                "_81_": "string",
+                "_116_": "内容文案"
+              },
+              "_200_": {
+                "_81_": "string",
+                "_116_": "取消按钮文案"
+              },
+              "_199_": {
+                "_81_": "string",
+                "_116_": "确认按钮文案"
+              },
+              "_210_": {
+                "_81_": "any",
+                "_116_": "输出值内容"
+              }
+            }
+          },
+          "_166_": [
+            "ok",
+            "cancel"
+          ],
+          "_109_": {
+            "_R_": "19"
+          },
+          "_24_": "弹出",
+          "_85_": {
+            "_81_": "object",
+            "_198_": {
+              "_24_": {
+                "_81_": "string",
+                "_116_": "标题文案"
+              },
+              "_77_": {
+                "_81_": "string",
+                "_116_": "内容文案"
+              },
+              "_200_": {
+                "_81_": "string",
+                "_116_": "取消按钮文案"
+              },
+              "_199_": {
+                "_81_": "string",
+                "_116_": "确认按钮文案"
+              },
+              "_210_": {
+                "_81_": "any",
+                "_116_": "输出值内容"
+              }
+            }
+          }
+        },
+        "47": {
+          "_F_": 9,
+          "_0_": "u_RHDc7",
+          "_1_": {
+            "_R_": "68"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "output",
+          "_115_": "ok",
+          "_116_": "点击确认后，输出内容",
+          "_118_": {
+            "_81_": "number"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "19"
+          },
+          "_24_": "确认",
+          "_85_": {
+            "_81_": "number"
+          }
+        },
+        "48": {
+          "_F_": 9,
+          "_0_": "u__RQ6v",
+          "_1_": {
+            "_R_": "69"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_81_": "normal",
+          "_110_": [],
+          "_114_": "output",
+          "_115_": "cancel",
+          "_116_": "点击取消后，输出内容",
+          "_118_": {
+            "_81_": "number"
+          },
+          "_84_": false,
+          "_109_": {
+            "_R_": "19"
+          },
+          "_24_": "取消",
+          "_85_": {
+            "_81_": "number"
+          }
+        },
+        "49": {
+          "_F_": 14,
+          "_0_": "u_ulgJp",
+          "_1_": {
+            "_R_": "71"
+          },
+          "_86_": 0,
+          "_87_": 4,
+          "_167_": false,
+          "_132_": [],
+          "_168_": {
+            "_R_": "72"
+          },
+          "_169_": {
+            "_R_": "46"
+          },
+          "_24_": "从 单击 到 弹出 的连接",
+          "_109_": {
+            "_R_": "21"
+          },
+          "_170_": "Error schema",
+          "_171_": {
+            "_205_": 35.6,
+            "_206_": 60,
+            "_207_": 50.5
+          },
+          "_172_": {
+            "_205_": 35.6,
+            "_206_": 216,
+            "_207_": 68.5
+          }
+        },
+        "50": {
+          "_F_": 1
+        },
+        "51": {
+          "_F_": 15,
+          "_192_": "block",
+          "_74_": 283,
+          "_21_": 555,
+          "_193_": "visible",
+          "_194_": true,
+          "_50_": "fit-content",
+          "_196_": true,
+          "_52_": "auto",
+          "_103_": 65,
+          "_104_": 32
+        },
+        "52": {
+          "_F_": 1
+        },
+        "53": {
+          "_F_": 1
+        },
+        "54": {
+          "_F_": 1
+        },
+        "55": {
+          "_F_": 1
+        },
+        "56": {
+          "_F_": 1
+        },
+        "57": {
+          "_F_": 1
+        },
+        "58": {
+          "_F_": 1
+        },
+        "59": {
+          "_F_": 1
+        },
+        "60": {
+          "_F_": 1
+        },
+        "61": {
+          "_F_": 1
+        },
+        "62": {
+          "_F_": 1
+        },
+        "63": {
+          "_F_": 1
+        },
+        "64": {
+          "_F_": 1
+        },
+        "65": {
+          "_F_": 1
+        },
+        "66": {
+          "_F_": 1
+        },
+        "67": {
+          "_F_": 1
+        },
+        "68": {
+          "_F_": 1
+        },
+        "69": {
+          "_F_": 1
+        },
+        "70": {
+          "_F_": 15,
+          "_192_": "block"
+        },
+        "71": {
+          "_F_": 1
+        },
+        "72": {
+          "_F_": 16,
+          "_0_": "u_ajrtt",
+          "_1_": {
+            "_R_": "73"
+          },
+          "_86_": 0,
+          "_87_": 2,
+          "_110_": [
+            {
+              "_R_": "49"
+            }
+          ],
+          "_109_": {
+            "_R_": "30"
+          },
+          "_150_": {
+            "_R_": "40"
+          },
+          "_204_": true,
+          "_24_": "单击",
+          "_85_": {
+            "_81_": "number"
+          }
+        },
+        "73": {
+          "_F_": 1
+        }
+      },
+      "def": {
+        "_R_": "0"
+      }
+    }
+  },
+  "pageConfig": {
+    "comlibs": [
+      {
+        "comAray": [],
+        "id": "_myself_",
+        "title": "我的组件",
+        "defined": true
+      },
+      {
+        "id": 621265441849413,
+        "type": "com_lib",
+        "scope_status": 3,
+        "namespace": "mybricks.ai-comlib-pc",
+        "version": "1.0.39",
+        "creator_id": "12",
+        "creator_name": "",
+        "create_time": 1729512933264,
+        "update_time": 1752736665687,
+        "updator_id": "12",
+        "updator_name": "",
+        "icon": "",
+        "preview_img": "",
+        "title": "PC-AI组件库",
+        "description": "",
+        "status": 1,
+        "meta": "",
+        "scene_id": 1,
+        "content": "{\"react\":{\"editJs\":\"https://assets.mybricks.world/comlibs/mybricks.ai-comlib-pc/1.0.39/2025-07-17_15-15-15/edit.js\",\"rtJs\":\"https://assets.mybricks.world/comlibs/mybricks.ai-comlib-pc/1.0.39/2025-07-17_15-15-15/rt.js\",\"coms\":\"https://assets.mybricks.world/comlibs/mybricks.ai-comlib-pc/1.0.39/2025-07-17_15-15-15/rtCom.js\",\"deps\":[{\"namespace\":\"mybricks.basic-comlib.ai-mix\",\"version\":\"1.0.16\"},{\"namespace\":\"mybricks.basic-comlib.ai-antd\",\"version\":\"1.0.3\"},{\"namespace\":\"mybricks.basic-comlib.ai-echarts\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.basic-comlib.ai-echarts\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.ai-comlib.echarts-pie\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-line\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-column\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-radar\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-funnel\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-scatter\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-sunburst\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-heatmap\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-gauge\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-tree\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-treemap\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-sankey\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-boxplot\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.ai-comlib.echarts-candlestick\",\"version\":\"1.0.2\"}],\"externals\":[{\"name\":\"@ant-design/cssinjs\",\"library\":\"antdCssinjs\",\"urls\":[\"public/antd/cssinjs.min.js\"]},{\"name\":\"dayjs\",\"library\":\"dayjs\",\"version\":\"1.11.13\",\"urls\":[\"public/dayjs/dayjs@1.11.13.min.js\",\"public/dayjs/locale/zh-cn.min.js\"]},{\"name\":\"@ant-design/icons\",\"library\":\"icons\",\"urls\":[\"public/ant-design-icons@4.7.0.min.js\"]},{\"name\":\"antd\",\"library\":\"antd_5_21_4\",\"version\":\"5.21.4\",\"urls\":[\"public/antd/antd@5.21.4.min.js\",\"public/antd/locale/zh_CN.js\"]},{\"name\":\"echarts\",\"library\":\"echarts\",\"version\":\"5.5.1\",\"urls\":[\"public/echarts@5.5.1.min.js\"]}]}}",
+        "material_pub_id": 716389849808965,
+        "material_id": 621265441849413,
+        "editJs": "https://assets.mybricks.world/comlibs/mybricks.ai-comlib-pc/1.0.39/2025-07-17_15-15-15/edit.js",
+        "rtJs": "https://assets.mybricks.world/comlibs/mybricks.ai-comlib-pc/1.0.39/2025-07-17_15-15-15/rt.js",
+        "coms": "https://assets.mybricks.world/comlibs/mybricks.ai-comlib-pc/1.0.39/2025-07-17_15-15-15/rtCom.js",
+        "deps": [
+          {
+            "namespace": "mybricks.basic-comlib.ai-mix",
+            "version": "1.0.16"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.ai-antd",
+            "version": "1.0.3"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.ai-echarts",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.ai-echarts",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-pie",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-line",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-column",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-radar",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-funnel",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-scatter",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-sunburst",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-heatmap",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-gauge",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-tree",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-treemap",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-sankey",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-boxplot",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.ai-comlib.echarts-candlestick",
+            "version": "1.0.2"
+          }
+        ],
+        "externals": [
+          {
+            "name": "@ant-design/cssinjs",
+            "library": "antdCssinjs",
+            "urls": [
+              "public/antd/cssinjs.min.js"
+            ]
+          },
+          {
+            "name": "dayjs",
+            "library": "dayjs",
+            "version": "1.11.13",
+            "urls": [
+              "public/dayjs/dayjs@1.11.13.min.js",
+              "public/dayjs/locale/zh-cn.min.js"
+            ]
+          },
+          {
+            "name": "@ant-design/icons",
+            "library": "icons",
+            "urls": [
+              "public/ant-design-icons@4.7.0.min.js"
+            ]
+          },
+          {
+            "name": "antd",
+            "library": "antd_5_21_4",
+            "version": "5.21.4",
+            "urls": [
+              "public/antd/antd@5.21.4.min.js",
+              "public/antd/locale/zh_CN.js"
+            ]
+          },
+          {
+            "name": "echarts",
+            "library": "echarts",
+            "version": "5.5.1",
+            "urls": [
+              "public/echarts@5.5.1.min.js"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 621990121041989,
+        "type": "com_lib",
+        "scope_status": 3,
+        "namespace": "mybricks.basic-comlib.antd5",
+        "version": "1.0.9",
+        "creator_id": "12",
+        "creator_name": "",
+        "create_time": 1729689856895,
+        "update_time": 1751773691583,
+        "updator_id": "12",
+        "updator_name": "",
+        "icon": "",
+        "preview_img": "",
+        "title": "基础组件库(antd5)",
+        "description": "",
+        "status": 1,
+        "meta": "",
+        "scene_id": 1,
+        "content": "{\"react\":{\"editJs\":\"https://assets.mybricks.world/comlibs/mybricks.basic-comlib.antd5/1.0.9/2025-07-06_11-47-13/edit.js\",\"rtJs\":\"https://assets.mybricks.world/comlibs/mybricks.basic-comlib.antd5/1.0.9/2025-07-06_11-47-13/rt.js\",\"coms\":\"https://assets.mybricks.world/comlibs/mybricks.basic-comlib.antd5/1.0.9/2025-07-06_11-47-13/rtCom.js\",\"deps\":[{\"namespace\":\"mybricks.basic-comlib.antd5.rectangle\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.basic-comlib.antd5.circle\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.normal-pc.antd5.shape\",\"version\":\"1.0.3\"},{\"namespace\":\"mybricks.basic-comlib.antd5.popup\",\"version\":\"1.0.51\"},{\"namespace\":\"mybricks.basic-comlib.antd5.drawer\",\"version\":\"1.0.36\"},{\"namespace\":\"mybricks.basic-comlib.antd5.dragable-layout\",\"version\":\"1.0.8\"},{\"namespace\":\"mybricks.core-comlib.antd5.type-change\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.basic-comlib.antd5._get-data\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.basic-comlib.antd5._muilt-inputJs\",\"version\":\"1.0.22\"},{\"namespace\":\"mybricks.normal-pc.antd5.timer-delay\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.timer-loop\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.timer-debounce\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.timer-throttle\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.data.antd5.merge\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.object-merge\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.download\",\"version\":\"1.0.7\"},{\"namespace\":\"mybricks.normal-pc.antd5.dataSimulator\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.copy\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.basic-comlib.antd5._rsa-encryption\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.basic-comlib.antd5._md5-encryption\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.basic-comlib.antd5._encryption\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.basic-comlib.antd5.grid\",\"version\":\"1.0.19\"},{\"namespace\":\"mybricks.basic-comlib.antd5.line\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.line\",\"version\":\"1.0.4\"},{\"namespace\":\"mybricks.normal-pc.antd5.arrow\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.basic-comlib.antd5.custom-render\",\"version\":\"1.0.5\"},{\"namespace\":\"mybricks.basic-comlib.antd5.document-title\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.comlib-meta.antd5.generatePage\",\"version\":\"1.0.3\"},{\"namespace\":\"mybricks.comlib-meta.antd5.updateVar\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.comlib-meta.antd5.getCom\",\"version\":\"1.0.4\"},{\"namespace\":\"mybricks.comlib-template-compute.antd5.editDialogCom\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.basic-comlib.antd5.destroy-all-popup\",\"version\":\"1.0.0\"}],\"externals\":[{\"name\":\"@ant-design/cssinjs\",\"library\":\"antdCssinjs\",\"urls\":[\"public/antd/cssinjs.min.js\"]},{\"name\":\"moment\",\"library\":\"dayjs\",\"version\":\"1.11.13\",\"urls\":[\"public/dayjs/dayjs@1.11.13.min.js\",\"public/dayjs/locale/zh-cn.min.js\"]},{\"name\":\"dayjs\",\"library\":\"dayjs\",\"version\":\"1.11.13\",\"urls\":[\"public/dayjs/dayjs@1.11.13.min.js\",\"public/dayjs/locale/zh-cn.min.js\"]},{\"name\":\"@ant-design/icons\",\"library\":\"icons\",\"urls\":[\"public/ant-design-icons@4.7.0.min.js\"]},{\"name\":\"antd\",\"library\":\"antd_5_21_4\",\"version\":\"5.21.4\",\"urls\":[\"public/antd/antd@5.21.4.min.js\",\"public/antd/locale/zh_CN.js\"]}]}}",
+        "material_pub_id": 712445507878981,
+        "material_id": 621990121041989,
+        "editJs": "https://assets.mybricks.world/comlibs/mybricks.basic-comlib.antd5/1.0.9/2025-07-06_11-47-13/edit.js",
+        "rtJs": "https://assets.mybricks.world/comlibs/mybricks.basic-comlib.antd5/1.0.9/2025-07-06_11-47-13/rt.js",
+        "coms": "https://assets.mybricks.world/comlibs/mybricks.basic-comlib.antd5/1.0.9/2025-07-06_11-47-13/rtCom.js",
+        "deps": [
+          {
+            "namespace": "mybricks.basic-comlib.antd5.rectangle",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5.circle",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.shape",
+            "version": "1.0.3"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5.popup",
+            "version": "1.0.51"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5.drawer",
+            "version": "1.0.36"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5.dragable-layout",
+            "version": "1.0.8"
+          },
+          {
+            "namespace": "mybricks.core-comlib.antd5.type-change",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5._get-data",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5._muilt-inputJs",
+            "version": "1.0.22"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.timer-delay",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.timer-loop",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.timer-debounce",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.timer-throttle",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.data.antd5.merge",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.object-merge",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.download",
+            "version": "1.0.7"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.dataSimulator",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.copy",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5._rsa-encryption",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5._md5-encryption",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5._encryption",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5.grid",
+            "version": "1.0.19"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5.line",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.line",
+            "version": "1.0.4"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.arrow",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5.custom-render",
+            "version": "1.0.5"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5.document-title",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.comlib-meta.antd5.generatePage",
+            "version": "1.0.3"
+          },
+          {
+            "namespace": "mybricks.comlib-meta.antd5.updateVar",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.comlib-meta.antd5.getCom",
+            "version": "1.0.4"
+          },
+          {
+            "namespace": "mybricks.comlib-template-compute.antd5.editDialogCom",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.basic-comlib.antd5.destroy-all-popup",
+            "version": "1.0.0"
+          }
+        ],
+        "externals": [
+          {
+            "name": "@ant-design/cssinjs",
+            "library": "antdCssinjs",
+            "urls": [
+              "public/antd/cssinjs.min.js"
+            ]
+          },
+          {
+            "name": "moment",
+            "library": "dayjs",
+            "version": "1.11.13",
+            "urls": [
+              "public/dayjs/dayjs@1.11.13.min.js",
+              "public/dayjs/locale/zh-cn.min.js"
+            ]
+          },
+          {
+            "name": "dayjs",
+            "library": "dayjs",
+            "version": "1.11.13",
+            "urls": [
+              "public/dayjs/dayjs@1.11.13.min.js",
+              "public/dayjs/locale/zh-cn.min.js"
+            ]
+          },
+          {
+            "name": "@ant-design/icons",
+            "library": "icons",
+            "urls": [
+              "public/ant-design-icons@4.7.0.min.js"
+            ]
+          },
+          {
+            "name": "antd",
+            "library": "antd_5_21_4",
+            "version": "5.21.4",
+            "urls": [
+              "public/antd/antd@5.21.4.min.js",
+              "public/antd/locale/zh_CN.js"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 621990195564613,
+        "type": "com_lib",
+        "scope_status": 3,
+        "namespace": "mybricks.normal-pc.antd5",
+        "version": "1.0.49",
+        "creator_id": "12",
+        "creator_name": "",
+        "create_time": 1729689875089,
+        "update_time": 1753708936206,
+        "updator_id": "39",
+        "updator_name": "",
+        "icon": "",
+        "preview_img": "",
+        "title": "通用PC组件库(antd5)",
+        "description": "",
+        "status": 1,
+        "meta": "",
+        "scene_id": 1,
+        "content": "{\"react\":{\"editJs\":\"https://assets.mybricks.world/comlibs/mybricks.normal-pc.antd5/1.0.49/2025-07-28_21-13-06/edit.js\",\"rtJs\":\"https://assets.mybricks.world/comlibs/mybricks.normal-pc.antd5/1.0.49/2025-07-28_21-13-06/rt.js\",\"coms\":\"https://assets.mybricks.world/comlibs/mybricks.normal-pc.antd5/1.0.49/2025-07-28_21-13-06/rtCom.js\",\"deps\":[{\"namespace\":\"mybricks.normal-pc.antd5.text\",\"version\":\"1.0.25\"},{\"namespace\":\"mybricks.normal-pc.antd5.link\",\"version\":\"1.0.10\"},{\"namespace\":\"mybricks.normal-pc.antd5.typography\",\"version\":\"1.0.24\"},{\"namespace\":\"mybricks.normal-pc.antd5.richtext-preview\",\"version\":\"1.0.6\"},{\"namespace\":\"mybricks.normal-pc.antd5.single-image\",\"version\":\"1.0.17\"},{\"namespace\":\"mybricks.normal-pc.antd5.toolbar\",\"version\":\"1.0.43\"},{\"namespace\":\"mybricks.normal-pc.antd5.custom-button\",\"version\":\"1.0.38\"},{\"namespace\":\"mybricks.normal-pc.antd5.icon\",\"version\":\"1.0.15\"},{\"namespace\":\"mybricks.normal-pc.antd5.richtext\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.tagList\",\"version\":\"1.0.25\"},{\"namespace\":\"mybricks.normal-pc.antd5.grid\",\"version\":\"1.0.18\"},{\"namespace\":\"mybricks.normal-pc.antd5.card\",\"version\":\"1.0.29\"},{\"namespace\":\"mybricks.normal-pc.antd5.tabs\",\"version\":\"1.0.60\"},{\"namespace\":\"mybricks.normal-pc.antd5.list\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.list-new\",\"version\":\"1.0.42\"},{\"namespace\":\"mybricks.normal-pc.antd5.collapse\",\"version\":\"1.0.9\"},{\"namespace\":\"mybricks.normal-pc.antd5.custom-container\",\"version\":\"1.0.48\"},{\"namespace\":\"mybricks.normal-pc.antd5.switch-container\",\"version\":\"1.0.8\"},{\"namespace\":\"mybricks.normal-pc.antd5.popover\",\"version\":\"1.0.19\"},{\"namespace\":\"mybricks.normal-pc.antd5.dialog\",\"version\":\"1.1.14\"},{\"namespace\":\"mybricks.normal-pc.antd5.drawer\",\"version\":\"1.0.6\"},{\"namespace\":\"mybricks.normal-pc.antd5.popconfirm\",\"version\":\"1.0.6\"},{\"namespace\":\"mybricks.normal-pc.antd5.divider\",\"version\":\"1.0.7\"},{\"namespace\":\"mybricks.normal-pc.antd5.breadcrumb\",\"version\":\"1.0.5\"},{\"namespace\":\"mybricks.normal-pc.antd5.paginator\",\"version\":\"1.0.13\"},{\"namespace\":\"mybricks.normal-pc.antd5.menu\",\"version\":\"1.0.24\"},{\"namespace\":\"mybricks.normal-pc.antd5.steps\",\"version\":\"1.1.6\"},{\"namespace\":\"mybricks.normal-pc.antd5.form-container\",\"version\":\"1.5.0\"},{\"namespace\":\"mybricks.normal-pc.antd5.form-text\",\"version\":\"1.3.32\"},{\"namespace\":\"mybricks.normal-pc.antd5.input-number\",\"version\":\"1.1.25\"},{\"namespace\":\"mybricks.normal-pc.antd5.input-textarea\",\"version\":\"1.1.28\"},{\"namespace\":\"mybricks.normal-pc.antd5.auto-complete\",\"version\":\"1.1.13\"},{\"namespace\":\"mybricks.normal-pc.antd5.search\",\"version\":\"1.1.17\"},{\"namespace\":\"mybricks.normal-pc.antd5.radio\",\"version\":\"1.1.25\"},{\"namespace\":\"mybricks.normal-pc.antd5.select\",\"version\":\"1.1.48\"},{\"namespace\":\"mybricks.normal-pc.antd5.checkbox\",\"version\":\"1.1.34\"},{\"namespace\":\"mybricks.normal-pc.antd5.cascader\",\"version\":\"1.1.28\"},{\"namespace\":\"mybricks.normal-pc.antd5.treeSelect\",\"version\":\"1.2.47\"},{\"namespace\":\"mybricks.normal-pc.antd5.date-picker\",\"version\":\"1.1.42\"},{\"namespace\":\"mybricks.normal-pc.antd5.date-picker-full-open\",\"version\":\"1.0.5\"},{\"namespace\":\"mybricks.normal-pc.antd5.range-picker\",\"version\":\"1.1.32\"},{\"namespace\":\"mybricks.normal-pc.antd5.time-picker\",\"version\":\"1.1.20\"},{\"namespace\":\"mybricks.normal-pc.antd5.time-range-picker\",\"version\":\"1.1.18\"},{\"namespace\":\"mybricks.normal-pc.antd5.switch\",\"version\":\"1.1.19\"},{\"namespace\":\"mybricks.normal-pc.antd5.transfer\",\"version\":\"1.1.16\"},{\"namespace\":\"mybricks.normal-pc.antd5.upload\",\"version\":\"1.0.63\"},{\"namespace\":\"mybricks.normal-pc.antd5.slider\",\"version\":\"1.1.12\"},{\"namespace\":\"mybricks.normal-pc.antd5.rate\",\"version\":\"1.1.10\"},{\"namespace\":\"mybricks.normal-pc.antd5.form-email\",\"version\":\"1.1.14\"},{\"namespace\":\"mybricks.normal-pc.antd5.password\",\"version\":\"1.1.16\"},{\"namespace\":\"mybricks.normal-pc.antd5.form-phone-number\",\"version\":\"1.1.10\"},{\"namespace\":\"mybricks.normal-pc.antd5.color\",\"version\":\"1.1.17\"},{\"namespace\":\"mybricks.normal-pc.antd5.code-editor\",\"version\":\"1.1.16\"},{\"namespace\":\"mybricks.normal-pc.antd5.input-richtext\",\"version\":\"1.1.43\"},{\"namespace\":\"mybricks.normal-pc.antd5.form-list\",\"version\":\"1.2.52\"},{\"namespace\":\"mybricks.normal-pc.antd5.form-item-container\",\"version\":\"1.1.11\"},{\"namespace\":\"mybricks.normal-pc.antd5.form-addition-container\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.table\",\"version\":\"1.2.51\"},{\"namespace\":\"mybricks.normal-pc.antd5.form-detail\",\"version\":\"1.0.32\"},{\"namespace\":\"mybricks.normal-pc.antd5.json-view\",\"version\":\"1.0.13\"},{\"namespace\":\"mybricks.normal-pc.antd5.tree\",\"version\":\"1.0.92\"},{\"namespace\":\"mybricks.normal-pc.antd5.timeline\",\"version\":\"1.0.11\"},{\"namespace\":\"mybricks.normal-pc.antd5.calendar\",\"version\":\"1.0.8\"},{\"namespace\":\"mybricks.normal-pc.antd5.progress\",\"version\":\"1.0.6\"},{\"namespace\":\"mybricks.normal-pc.antd5.anchor-container\",\"version\":\"1.0.14\"},{\"namespace\":\"mybricks.antd5.bottom-bar\",\"version\":\"1.0.8\"},{\"namespace\":\"mybricks.normal-pc.antd5.alert\",\"version\":\"1.0.13\"},{\"namespace\":\"mybricks.normal-pc.antd5.iframe\",\"version\":\"1.0.4\"},{\"namespace\":\"mybricks.normal-pc.antd5.qr-code\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.result\",\"version\":\"1.0.4\"},{\"namespace\":\"mybricks.normal-pc.antd5.spin\",\"version\":\"1.0.8\"},{\"namespace\":\"mybricks.normal-pc.antd5.tooltip\",\"version\":\"1.0.15\"},{\"namespace\":\"mybricks.normal-pc.antd5.dropdown\",\"version\":\"1.0.36\"},{\"namespace\":\"mybricks.normal-pc.antd5.sort-bar\",\"version\":\"1.0.3\"},{\"namespace\":\"mybricks.normal-pc.antd5.video\",\"version\":\"1.0.6\"},{\"namespace\":\"mybricks.normal-pc.antd5.print\",\"version\":\"1.0.9\"},{\"namespace\":\"mybricks.normal-pc.antd5.silent-print\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.normal-pc.antd5.carousel\",\"version\":\"0.0.4\"},{\"namespace\":\"mybricks.normal-pc.antd5.muilt-inputJs\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.segment\",\"version\":\"1.0.4\"},{\"namespace\":\"mybricks.normal-pc.antd5.tips\",\"version\":\"1.0.15\"},{\"namespace\":\"mybricks.normal-pc.antd5.message\",\"version\":\"1.0.5\"},{\"namespace\":\"mybricks.normal-pc.antd5.service\",\"version\":\"1.0.10\"},{\"namespace\":\"mybricks.normal-pc.antd5.page-router\",\"version\":\"1.0.9\"},{\"namespace\":\"mybricks.normal-pc.antd5.global-loading\",\"version\":\"1.0.6\"},{\"namespace\":\"mybricks.normal-pc.antd5.props\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.custom-methods\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.normal-pc.antd5.env-var\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.i18n-content\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.normal-pc.antd5.array-merge\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.query\",\"version\":\"1.0.3\"},{\"namespace\":\"mybricks.normal-pc.antd5.events\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.notification\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.websocket\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.normal-pc.antd5.pick\",\"version\":\"1.0.7\"},{\"namespace\":\"mybricks.normal-pc.antd5.excel\",\"version\":\"1.0.8\"},{\"namespace\":\"mybricks.normal-pc.antd5.parseExcel\",\"version\":\"0.0.5\"},{\"namespace\":\"mybricks.normal-pc.antd5.pinyin\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.post-message\",\"version\":\"1.0.4\"},{\"namespace\":\"mybricks.normal-pc.antd5.get-storage\",\"version\":\"1.0.4\"},{\"namespace\":\"mybricks.normal-pc.antd5.set-storage\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.normal-pc.antd5.receive-message\",\"version\":\"1.0.1\"},{\"namespace\":\"mybricks.normal-pc.antd5.countdown\",\"version\":\"1.0.0\"},{\"namespace\":\"mybricks.comlib-template-compute.antd5._config_form\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.comlib-template-compute.antd5._config_table\",\"version\":\"1.0.8\"},{\"namespace\":\"mybricks.comlib-template-compute.antd5._config_toolbar\",\"version\":\"1.0.5\"},{\"namespace\":\"mybricks.comlib-template-compute.antd5._list-form-item\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.comlib-template-compute.antd5.editFormContainerCom\",\"version\":\"1.0.5\"},{\"namespace\":\"mybricks.comlib-template-compute.antd5._config_form_detail\",\"version\":\"1.0.2\"},{\"namespace\":\"mybricks.comlib-template-compute.antd5._config_tree\",\"version\":\"1.0.0\"}],\"externals\":[{\"name\":\"@ant-design/cssinjs\",\"library\":\"antdCssinjs\",\"urls\":[\"public/antd/cssinjs.min.js\"]},{\"name\":\"moment\",\"library\":\"dayjs\",\"version\":\"1.11.13\",\"urls\":[\"public/dayjs/dayjs@1.11.13.min.js\",\"public/dayjs/locale/zh-cn.min.js\"]},{\"name\":\"dayjs\",\"library\":\"dayjs\",\"version\":\"1.11.13\",\"urls\":[\"public/dayjs/dayjs@1.11.13.min.js\",\"public/dayjs/locale/zh-cn.min.js\"]},{\"name\":\"@ant-design/icons\",\"library\":\"icons\",\"urls\":[\"public/ant-design-icons@4.7.0.min.js\"]},{\"name\":\"antd\",\"library\":\"antd_5_21_4\",\"version\":\"5.21.4\",\"urls\":[\"public/antd/antd@5.21.4.min.js\",\"public/antd/locale/zh_CN.js\"]}]}}",
+        "material_pub_id": 720372269817925,
+        "material_id": 621990195564613,
+        "editJs": "https://assets.mybricks.world/comlibs/mybricks.normal-pc.antd5/1.0.49/2025-07-28_21-13-06/edit.js",
+        "rtJs": "https://assets.mybricks.world/comlibs/mybricks.normal-pc.antd5/1.0.49/2025-07-28_21-13-06/rt.js",
+        "coms": "https://assets.mybricks.world/comlibs/mybricks.normal-pc.antd5/1.0.49/2025-07-28_21-13-06/rtCom.js",
+        "deps": [
+          {
+            "namespace": "mybricks.normal-pc.antd5.text",
+            "version": "1.0.25"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.link",
+            "version": "1.0.10"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.typography",
+            "version": "1.0.24"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.richtext-preview",
+            "version": "1.0.6"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.single-image",
+            "version": "1.0.17"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.toolbar",
+            "version": "1.0.43"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.custom-button",
+            "version": "1.0.38"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.icon",
+            "version": "1.0.15"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.richtext",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.tagList",
+            "version": "1.0.25"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.grid",
+            "version": "1.0.18"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.card",
+            "version": "1.0.29"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.tabs",
+            "version": "1.0.60"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.list",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.list-new",
+            "version": "1.0.42"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.collapse",
+            "version": "1.0.9"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.custom-container",
+            "version": "1.0.48"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.switch-container",
+            "version": "1.0.8"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.popover",
+            "version": "1.0.19"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.dialog",
+            "version": "1.1.14"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.drawer",
+            "version": "1.0.6"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.popconfirm",
+            "version": "1.0.6"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.divider",
+            "version": "1.0.7"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.breadcrumb",
+            "version": "1.0.5"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.paginator",
+            "version": "1.0.13"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.menu",
+            "version": "1.0.24"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.steps",
+            "version": "1.1.6"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.form-container",
+            "version": "1.5.0"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.form-text",
+            "version": "1.3.32"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.input-number",
+            "version": "1.1.25"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.input-textarea",
+            "version": "1.1.28"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.auto-complete",
+            "version": "1.1.13"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.search",
+            "version": "1.1.17"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.radio",
+            "version": "1.1.25"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.select",
+            "version": "1.1.48"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.checkbox",
+            "version": "1.1.34"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.cascader",
+            "version": "1.1.28"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.treeSelect",
+            "version": "1.2.47"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.date-picker",
+            "version": "1.1.42"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.date-picker-full-open",
+            "version": "1.0.5"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.range-picker",
+            "version": "1.1.32"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.time-picker",
+            "version": "1.1.20"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.time-range-picker",
+            "version": "1.1.18"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.switch",
+            "version": "1.1.19"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.transfer",
+            "version": "1.1.16"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.upload",
+            "version": "1.0.63"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.slider",
+            "version": "1.1.12"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.rate",
+            "version": "1.1.10"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.form-email",
+            "version": "1.1.14"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.password",
+            "version": "1.1.16"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.form-phone-number",
+            "version": "1.1.10"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.color",
+            "version": "1.1.17"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.code-editor",
+            "version": "1.1.16"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.input-richtext",
+            "version": "1.1.43"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.form-list",
+            "version": "1.2.52"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.form-item-container",
+            "version": "1.1.11"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.form-addition-container",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.table",
+            "version": "1.2.51"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.form-detail",
+            "version": "1.0.32"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.json-view",
+            "version": "1.0.13"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.tree",
+            "version": "1.0.92"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.timeline",
+            "version": "1.0.11"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.calendar",
+            "version": "1.0.8"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.progress",
+            "version": "1.0.6"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.anchor-container",
+            "version": "1.0.14"
+          },
+          {
+            "namespace": "mybricks.antd5.bottom-bar",
+            "version": "1.0.8"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.alert",
+            "version": "1.0.13"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.iframe",
+            "version": "1.0.4"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.qr-code",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.result",
+            "version": "1.0.4"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.spin",
+            "version": "1.0.8"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.tooltip",
+            "version": "1.0.15"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.dropdown",
+            "version": "1.0.36"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.sort-bar",
+            "version": "1.0.3"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.video",
+            "version": "1.0.6"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.print",
+            "version": "1.0.9"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.silent-print",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.carousel",
+            "version": "0.0.4"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.muilt-inputJs",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.segment",
+            "version": "1.0.4"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.tips",
+            "version": "1.0.15"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.message",
+            "version": "1.0.5"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.service",
+            "version": "1.0.10"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.page-router",
+            "version": "1.0.9"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.global-loading",
+            "version": "1.0.6"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.props",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.custom-methods",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.env-var",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.i18n-content",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.array-merge",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.query",
+            "version": "1.0.3"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.events",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.notification",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.websocket",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.pick",
+            "version": "1.0.7"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.excel",
+            "version": "1.0.8"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.parseExcel",
+            "version": "0.0.5"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.pinyin",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.post-message",
+            "version": "1.0.4"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.get-storage",
+            "version": "1.0.4"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.set-storage",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.receive-message",
+            "version": "1.0.1"
+          },
+          {
+            "namespace": "mybricks.normal-pc.antd5.countdown",
+            "version": "1.0.0"
+          },
+          {
+            "namespace": "mybricks.comlib-template-compute.antd5._config_form",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.comlib-template-compute.antd5._config_table",
+            "version": "1.0.8"
+          },
+          {
+            "namespace": "mybricks.comlib-template-compute.antd5._config_toolbar",
+            "version": "1.0.5"
+          },
+          {
+            "namespace": "mybricks.comlib-template-compute.antd5._list-form-item",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.comlib-template-compute.antd5.editFormContainerCom",
+            "version": "1.0.5"
+          },
+          {
+            "namespace": "mybricks.comlib-template-compute.antd5._config_form_detail",
+            "version": "1.0.2"
+          },
+          {
+            "namespace": "mybricks.comlib-template-compute.antd5._config_tree",
+            "version": "1.0.0"
+          }
+        ],
+        "externals": [
+          {
+            "name": "@ant-design/cssinjs",
+            "library": "antdCssinjs",
+            "urls": [
+              "public/antd/cssinjs.min.js"
+            ]
+          },
+          {
+            "name": "moment",
+            "library": "dayjs",
+            "version": "1.11.13",
+            "urls": [
+              "public/dayjs/dayjs@1.11.13.min.js",
+              "public/dayjs/locale/zh-cn.min.js"
+            ]
+          },
+          {
+            "name": "dayjs",
+            "library": "dayjs",
+            "version": "1.11.13",
+            "urls": [
+              "public/dayjs/dayjs@1.11.13.min.js",
+              "public/dayjs/locale/zh-cn.min.js"
+            ]
+          },
+          {
+            "name": "@ant-design/icons",
+            "library": "icons",
+            "urls": [
+              "public/ant-design-icons@4.7.0.min.js"
+            ]
+          },
+          {
+            "name": "antd",
+            "library": "antd_5_21_4",
+            "version": "5.21.4",
+            "urls": [
+              "public/antd/antd@5.21.4.min.js",
+              "public/antd/locale/zh_CN.js"
+            ]
+          }
+        ]
+      }
+    ],
+    "debugMockConfig": {
+      "debugQuery": [],
+      "debugProps": [],
+      "localStorageMock": [],
+      "debugHeaders": [],
+      "sessionStorageMock": []
+    },
+    "directConnection": false
+  }
+}
